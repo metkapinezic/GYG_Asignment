@@ -42,4 +42,7 @@ platform with better film offerings, focusing on quality and variety.
 
   To ensure data integrity, a quality check was performed. The number of rows in the new dataset was verified against the number of rows in the raw IMDb file. The transformation process should not introduce any new rows or remove any existing rows from the raw IMDb data.
 
-The final deliverable is a Databricks library as a notebook in an HTML format which you can download and open in a browser and a pdf report summarizing the findings, outlining the problem, and providing insights into which media streaming platform is more suitable based on film offerings.
+#### Final deliverable:
+
+- Databricks library as a notebook in an HTML format which you can download and open in a browser
+- A pdf report summarizing the findings, outlining the problem, and providing insights into which media streaming platform is more suitable based on film offerings.
