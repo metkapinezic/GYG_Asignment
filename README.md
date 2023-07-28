@@ -24,7 +24,7 @@ platform with better film offerings, focusing on quality and variety.
 
 #### Data Cleaning:
 
-  The 'release_year' column required cleaning and transformation to an integer data type for consistency and better analysis.
+  The columns 'release_year' and 'gross' column required cleaning and transformation from string to an integer data type for consistency and better analysis.
 
 #### Transformation:
 
