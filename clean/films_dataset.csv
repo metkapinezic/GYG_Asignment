@@ -1,0 +1,1001 @@
+id,title,director,release_year,genre,rating,gross,streaming_service
+1,The Shawshank Redemption,Frank Darabont,1994,Drama,9.3,28340000,null
+2,The Godfather,Francis Ford Coppola,1972,"Crime, Drama",9.2,134970000,null
+3,The Dark Knight,Christopher Nolan,2008,"Action, Crime, Drama",9,534860000,null
+4,Schindler's List,Steven Spielberg,1993,"Biography, Drama, History",9,96900000,Netflix
+5,12 Angry Men,Sidney Lumet,1957,"Crime, Drama",9,4360000,null
+6,The Lord of the Rings: The Return of the King,Peter Jackson,2003,"Action, Adventure, Drama",9,377850016,Netflix
+7,The Godfather Part II,Francis Ford Coppola,1974,"Crime, Drama",9,57300000,null
+8,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,2023,"Animation, Action, Adventure",8.9,0,null
+9,Pulp Fiction,Quentin Tarantino,1994,"Crime, Drama",8.9,107930000,Netflix
+10,Inception,Christopher Nolan,2010,"Action, Adventure, Sci-Fi",8.8,292580000,Netflix
+11,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,2001,"Action, Adventure, Drama",8.8,315540000,null
+12,Fight Club,David Fincher,1999,Drama,8.8,37030000,null
+13,Forrest Gump,Robert Zemeckis,1994,"Drama, Romance",8.8,330249984,null
+14,"The Good, the Bad and the Ugly",Sergio Leone,1966,"Adventure, Western",8.8,6100000,null
+15,The Lord of the Rings: The Two Towers,Peter Jackson,2002,"Action, Adventure, Drama",8.8,342549984,Netflix
+16,Jai Bhim,T.J. Gnanavel,2021,"Crime, Drama, Mystery",8.8,0,null
+17,777 Charlie,Kiranraj K,2022,"Adventure, Comedy, Drama",8.8,0,null
+18,Interstellar,Christopher Nolan,2014,"Adventure, Drama, Sci-Fi",8.7,188020000,null
+19,Goodfellas,Martin Scorsese,1990,"Biography, Crime, Drama",8.7,46840000,null
+20,The Matrix,Lana Wachowski,1999,"Action, Sci-Fi",8.7,171480000,Netflix
+21,One Flew Over the Cuckoo's Nest,Milos Forman,1975,Drama,8.7,112000000,null
+22,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,1980,"Action, Adventure, Fantasy",8.7,290480000,null
+23,Rocketry: The Nambi Effect,Madhavan,2022,"Biography, Drama",8.7,0,null
+24,Soorarai Pottru,Sudha Kongara,2020,"Action, Drama",8.7,0,null
+25,The Green Mile,Frank Darabont,1999,"Crime, Drama, Fantasy",8.6,136800000,null
+26,Terminator 2: Judgment Day,James Cameron,1991,"Action, Sci-Fi",8.6,204840000,null
+27,Se7en,David Fincher,1995,"Crime, Drama, Mystery",8.6,100130000,null
+28,Saving Private Ryan,Steven Spielberg,1998,"Drama, War",8.6,216540000,null
+29,The Silence of the Lambs,Jonathan Demme,1991,"Crime, Drama, Thriller",8.6,130740008,null
+30,Star Wars: Episode IV - A New Hope,George Lucas,1977,"Action, Adventure, Fantasy",8.6,322740000,null
+31,Spirited Away,Hayao Miyazaki,2001,"Animation, Adventure, Family",8.6,10060000,null
+32,City of God,Fernando Meirelles,2002,"Crime, Drama",8.6,7560000,Netflix
+33,Life Is Beautiful,Roberto Benigni,1997,"Comedy, Drama, Romance",8.6,57600000,null
+34,Seven Samurai,Akira Kurosawa,1954,"Action, Drama",8.6,270000,null
+35,It's a Wonderful Life,Frank Capra,1946,"Drama, Family, Fantasy",8.6,0,null
+36,Harakiri,Masaki Kobayashi,1962,"Action, Drama, Mystery",8.6,0,null
+37,Sita Ramam,Hanu Raghavapudi,2022,"Action, Drama, Mystery",8.6,0,null
+38,Back to the Future,Robert Zemeckis,1985,"Adventure, Comedy, Sci-Fi",8.5,210610000,null
+39,The Departed,Martin Scorsese,2006,"Crime, Drama, Thriller",8.5,132380008,Netflix
+40,Gladiator,Ridley Scott,2000,"Action, Adventure, Drama",8.5,187710000,null
+41,Alien,Ridley Scott,1979,"Horror, Sci-Fi",8.5,78900000,null
+42,Parasite,Bong Joon Ho,2019,"Drama, Thriller",8.5,53370000,null
+43,The Prestige,Christopher Nolan,2006,"Drama, Mystery, Sci-Fi",8.5,53090000,null
+44,Whiplash,Damien Chazelle,2014,"Drama, Music",8.5,13090000,null
+45,Léon: The Professional,Luc Besson,1994,"Action, Crime, Drama",8.5,19500000,null
+46,The Lion King,Roger Allers,1994,"Animation, Adventure, Drama",8.5,422780000,null
+47,The Usual Suspects,Bryan Singer,1995,"Crime, Drama, Mystery",8.5,23340000,null
+48,Casablanca,Michael Curtiz,1942,"Drama, Romance, War",8.5,1020000,null
+49,American History X,Tony Kaye,1998,"Crime, Drama",8.5,6720000,Netflix
+50,Psycho,Alfred Hitchcock,1960,"Horror, Mystery, Thriller",8.5,32000000,Netflix
+51,The Pianist,Roman Polanski,2002,"Biography, Drama, Music",8.5,32570000,Netflix
+52,The Intouchables,Olivier Nakache,2011,"Biography, Comedy, Drama",8.5,13180000,Netflix
+53,Once Upon a Time in the West,Sergio Leone,1968,Western,8.5,5320000,Netflix
+54,Grave of the Fireflies,Isao Takahata,1988,"Animation, Drama, War",8.5,0,null
+55,Rear Window,Alfred Hitchcock,1954,"Mystery, Thriller",8.5,36760000,null
+56,Cinema Paradiso,Giuseppe Tornatore,1988,"Drama, Romance",8.5,11990000,null
+57,Modern Times,Charles Chaplin,1936,"Comedy, Drama, Romance",8.5,160000,null
+58,City Lights,Charles Chaplin,1931,"Comedy, Drama, Romance",8.5,20000,null
+59,96,C. Prem Kumar,2018,"Drama, Romance",8.5,0,null
+60,Indiana Jones and the Raiders of the Lost Ark,Steven Spielberg,1981,"Action, Adventure",8.4,248160000,Netflix
+61,Spider-Man: Into the Spider-Verse,Bob Persichetti,2018,"Animation, Action, Adventure",8.4,190240000,Netflix
+62,Avengers: Endgame,Anthony Russo,2019,"Action, Adventure, Drama",8.4,858369980,null
+63,Django Unchained,Quentin Tarantino,2012,"Drama, Western",8.4,162810000,Netflix
+64,Apocalypse Now,Francis Ford Coppola,1979,"Drama, Mystery, War",8.4,83470000,null
+65,Aliens,James Cameron,1986,"Action, Adventure, Sci-Fi",8.4,85160000,null
+66,Joker,Todd Phillips,2019,"Crime, Drama, Thriller",8.4,335450016,"Amazon Prime, Netflix"
+67,The Dark Knight Rises,Christopher Nolan,2012,"Action, Drama, Thriller",8.4,448140000,null
+68,Avengers: Infinity War,Anthony Russo,2018,"Action, Adventure, Sci-Fi",8.4,678820030,Netflix
+69,The Shining,Stanley Kubrick,1980,"Drama, Horror",8.4,44020000,null
+70,Oldboy,Park Chan-wook,2003,"Action, Drama, Mystery",8.4,710000,null
+71,Memento,Christopher Nolan,2000,"Mystery, Thriller",8.4,25540000,null
+72,Amadeus,Milos Forman,1984,"Biography, Drama, Music",8.4,51970000,null
+73,Come and See,Elem Klimov,1985,"Drama, Thriller, War",8.4,0,null
+74,Coco,Lee Unkrich,2017,"Animation, Adventure, Drama",8.4,209730000,null
+75,Your Name.,Makoto Shinkai,2016,"Animation, Drama, Fantasy",8.4,5020000,null
+76,WALL·E,Andrew Stanton,2008,"Animation, Adventure, Family",8.4,223810000,null
+77,3 Idiots,Rajkumar Hirani,2009,"Comedy, Drama",8.4,6530000,Netflix
+78,The Lives of Others,Florian Henckel von Donnersmarck,2006,"Drama, Mystery, Thriller",8.4,11290000,Netflix
+79,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Stanley Kubrick,1964,"Comedy, War",8.4,280000,null
+80,Das Boot,Wolfgang Petersen,1981,"Drama, War",8.4,11490000,null
+81,Capernaum,Nadine Labaki,2018,Drama,8.4,1660000,null
+82,Sunset Blvd.,Billy Wilder,1950,"Drama, Film-Noir",8.4,0,null
+83,Paths of Glory,Stanley Kubrick,1957,"Drama, War",8.4,0,null
+84,Witness for the Prosecution,Billy Wilder,1957,"Crime, Drama, Mystery",8.4,8180000.5,null
+85,The Great Dictator,Charles Chaplin,1940,"Comedy, Drama, War",8.4,290000,null
+86,High and Low,Akira Kurosawa,1963,"Crime, Drama, Mystery",8.4,0,null
+87,Kaithi,Lokesh Kanagaraj,2019,"Action, Adventure, Crime",8.4,0,null
+88,Sardar Udham,Shoojit Sircar,2021,"Biography, Crime, Drama",8.4,0,null
+89,Asuran,Vetrimaaran,2019,"Action, Drama",8.4,0,Amazon Prime
+90,Drishyam 2,Jeethu Joseph,2021,"Crime, Drama, Thriller",8.4,0,Amazon Prime
+91,Top Gun: Maverick,Joseph Kosinski,2022,"Action, Drama",8.3,718729980,null
+92,Heat,Michael Mann,1995,"Action, Crime, Drama",8.3,67440000,null
+93,Inglourious Basterds,Quentin Tarantino,2009,"Adventure, Drama, War",8.3,120540000,Netflix
+94,Full Metal Jacket,Stanley Kubrick,1987,"Drama, War",8.3,46360000,null
+95,Scarface,Brian De Palma,1983,"Crime, Drama",8.3,45600000,null
+96,American Beauty,Sam Mendes,1999,Drama,8.3,130100008,Netflix
+97,Requiem for a Dream,Darren Aronofsky,2000,Drama,8.3,3640000,null
+98,Good Will Hunting,Gus Van Sant,1997,"Drama, Romance",8.3,138430000,null
+99,Eternal Sunshine of the Spotless Mind,Michel Gondry,2004,"Drama, Romance, Sci-Fi",8.3,34400000,null
+100,A Clockwork Orange,Stanley Kubrick,1971,"Crime, Sci-Fi",8.3,6210000,Netflix
+101,Vertigo,Alfred Hitchcock,1958,"Mystery, Romance, Thriller",8.3,3200000,null
+102,Braveheart,Mel Gibson,1995,"Biography, Drama, History",8.3,75600000,null
+103,2001: A Space Odyssey,Stanley Kubrick,1968,"Adventure, Sci-Fi",8.3,56950000,null
+104,Reservoir Dogs,Quentin Tarantino,1992,"Crime, Thriller",8.3,2830000,null
+105,Once Upon a Time in America,Sergio Leone,1984,"Crime, Drama",8.3,5320000,Netflix
+106,The Hunt,Thomas Vinterberg,2012,Drama,8.3,690000,"Amazon Prime, Netflix"
+107,Toy Story,John Lasseter,1995,"Animation, Adventure, Comedy",8.3,191800000,null
+108,Hamilton,Thomas Kail,2020,"Biography, Drama, History",8.3,0,null
+109,Up,Pete Docter,2009,"Animation, Adventure, Comedy",8.3,293000000,null
+110,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,1983,"Action, Adventure, Fantasy",8.3,309130016,null
+111,Amélie,Jean-Pierre Jeunet,2001,"Comedy, Romance",8.3,33230000,null
+112,Incendies,Denis Villeneuve,2010,"Drama, Mystery",8.3,6860000,null
+113,Lawrence of Arabia,David Lean,1962,"Adventure, Biography, Drama",8.3,44820000,null
+114,Toy Story 3,Lee Unkrich,2010,"Animation, Adventure, Comedy",8.3,415000000,null
+115,Princess Mononoke,Hayao Miyazaki,1997,"Animation, Action, Adventure",8.3,2380000,null
+116,North by Northwest,Alfred Hitchcock,1959,"Action, Adventure, Mystery",8.3,13280000,null
+117,To Kill a Mockingbird,Robert Mulligan,1962,"Crime, Drama",8.3,0,null
+118,Citizen Kane,Orson Welles,1941,"Drama, Mystery",8.3,1590000,null
+119,Singin' in the Rain,Stanley Donen,1952,"Comedy, Musical, Romance",8.3,8820000,null
+120,Metropolis,Fritz Lang,1927,"Drama, Sci-Fi",8.3,1240000,null
+121,The Sting,George Roy Hill,1973,"Comedy, Crime, Drama",8.3,159600000,null
+122,A Separation,Asghar Farhadi,2011,Drama,8.3,7100000,Netflix
+123,M,Fritz Lang,1931,"Crime, Mystery, Thriller",8.3,30000,Amazon Prime
+124,The Apartment,Billy Wilder,1960,"Comedy, Drama, Romance",8.3,18600000,Netflix
+125,Dangal,Nitesh Tiwari,2016,"Action, Biography, Drama",8.3,12390000,Netflix
+126,Ikiru,Akira Kurosawa,1952,Drama,8.3,60000,null
+127,Judgment at Nuremberg,Stanley Kramer,1961,"Drama, War",8.3,0,null
+128,Kantara,Rishab Shetty,2022,"Action, Adventure, Drama",8.3,0,null
+129,Double Indemnity,Billy Wilder,1944,"Crime, Drama, Film-Noir",8.3,5720000,null
+130,Like Stars on Earth,Aamir Khan,2007,"Drama, Family",8.3,1220000,null
+131,Bicycle Thieves,Vittorio De Sica,1948,Drama,8.3,330000,null
+132,Ayla: The Daughter of War,Can Ulkay,2017,"Biography, Drama, History",8.3,0,null
+133,K.G.F: Chapter 2,Prashanth Neel,2022,"Action, Crime, Drama",8.3,6600000,null
+134,Vikram,Lokesh Kanagaraj,2022,"Action, Crime, Thriller",8.3,0,null
+135,Chhichhore,Nitesh Tiwari,2019,"Comedy, Drama, Romance",8.3,900000,null
+136,The Kid,Charles Chaplin,1921,"Comedy, Drama, Family",8.3,5450000,null
+137,Shershaah,Vishnuvardhan,2021,"Action, Biography, Drama",8.3,0,Amazon Prime
+138,Raatchasan,Ram Kumar,2018,"Action, Crime, Drama",8.3,0,null
+139,Drishyam,Jeethu Joseph,2013,"Crime, Drama, Thriller",8.3,0,Netflix
+140,Guardians of the Galaxy Vol. 3,James Gunn,2023,"Action, Adventure, Comedy",8.2,0,null
+141,Indiana Jones and the Last Crusade,Steven Spielberg,1989,"Action, Adventure",8.2,197170000,Netflix
+142,The Wolf of Wall Street,Martin Scorsese,2013,"Biography, Comedy, Crime",8.2,116900000,null
+143,Spider-Man: No Way Home,Jon Watts,2021,"Action, Adventure, Fantasy",8.2,804750020,null
+144,There Will Be Blood,Paul Thomas Anderson,2007,Drama,8.2,40220000,Netflix
+145,Jurassic Park,Steven Spielberg,1993,"Action, Adventure, Sci-Fi",8.2,402450016,null
+146,Shutter Island,Martin Scorsese,2010,"Mystery, Thriller",8.2,128009992,Netflix
+147,No Country for Old Men,Ethan Coen,2007,"Crime, Drama, Thriller",8.2,74280000,null
+148,The Thing,John Carpenter,1982,"Horror, Mystery, Sci-Fi",8.2,13780000,null
+149,Batman Begins,Christopher Nolan,2005,"Action, Crime, Drama",8.2,206850000,null
+150,Taxi Driver,Martin Scorsese,1976,"Crime, Drama",8.2,28260000,Netflix
+151,1917,Sam Mendes,2019,"Action, Drama, War",8.2,159230000,null
+152,Casino,Martin Scorsese,1995,"Crime, Drama",8.2,42440000,null
+153,Snatch,Guy Ritchie,2000,"Comedy, Crime",8.2,30330000,null
+154,Howl's Moving Castle,Hayao Miyazaki,2004,"Animation, Adventure, Family",8.2,4710000,null
+155,Unforgiven,Clint Eastwood,1992,"Drama, Western",8.2,101160000,null
+156,The Truman Show,Peter Weir,1998,"Comedy, Drama",8.2,125620000,null
+157,Green Book,Peter Farrelly,2018,"Biography, Comedy, Drama",8.2,85080000,null
+158,Kill Bill: Vol. 1,Quentin Tarantino,2003,"Action, Crime, Thriller",8.2,70100000,Netflix
+159,L.A. Confidential,Curtis Hanson,1997,"Crime, Drama, Mystery",8.2,64620004,null
+160,The Sixth Sense,M. Night Shyamalan,1999,"Drama, Mystery, Thriller",8.2,293510016,null
+161,Finding Nemo,Andrew Stanton,2003,"Animation, Adventure, Comedy",8.2,380840000,null
+162,Die Hard,John McTiernan,1988,"Action, Thriller",8.2,83010000,Amazon Prime
+163,A Beautiful Mind,Ron Howard,2001,"Biography, Drama",8.2,170740000,null
+164,The Father,Florian Zeller,2020,"Drama, Mystery",8.2,0,Amazon Prime
+165,Downfall,Oliver Hirschbiegel,2004,"Biography, Drama, History",8.2,5510000,null
+166,Gone with the Wind,Victor Fleming,1939,"Drama, Romance, War",8.2,198680000,null
+167,Chinatown,Roman Polanski,1974,"Drama, Mystery, Thriller",8.2,8490000,null
+168,V for Vendetta,James McTeigue,2005,"Action, Drama, Sci-Fi",8.2,70510000,Netflix
+169,Pan's Labyrinth,Guillermo del Toro,2006,"Drama, Fantasy, War",8.2,37630000,Netflix
+170,The Great Escape,John Sturges,1963,"Adventure, Drama, History",8.2,12100000,null
+171,Some Like It Hot,Billy Wilder,1959,"Comedy, Music, Romance",8.2,25000000,null
+172,Monty Python and the Holy Grail,Terry Gilliam,1975,"Adventure, Comedy, Fantasy",8.2,1230000,Netflix
+173,The Elephant Man,David Lynch,1980,"Biography, Drama",8.2,0,Amazon Prime
+174,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki,2020,"Animation, Action, Adventure",8.2,47700000,null
+175,The Secret in Their Eyes,Juan José Campanella,2009,"Drama, Mystery, Romance",8.2,6390000,null
+176,For a Few Dollars More,Sergio Leone,1965,"Drama, Western",8.2,15000000,null
+177,Ran,Akira Kurosawa,1985,"Action, Drama, War",8.2,4139999.8,null
+178,Klaus,Sergio Pablos,2019,"Animation, Adventure, Comedy",8.2,0,Netflix
+179,Drishyam 2,Abhishek Pathak,2022,"Crime, Drama, Mystery",8.2,0,Amazon Prime
+180,Dial M for Murder,Alfred Hitchcock,1954,"Crime, Thriller",8.2,10000,null
+181,All About Eve,Joseph L. Mankiewicz,1950,Drama,8.2,10000,null
+182,Baahubali 2: The Conclusion,S.S. Rajamouli,2017,"Action, Drama",8.2,20190000,null
+183,Andhadhun,Sriram Raghavan,2018,"Crime, Mystery, Thriller",8.2,1370000,Netflix
+184,Gangs of Wasseypur,Anurag Kashyap,2012,"Action, Comedy, Crime",8.2,0,null
+185,Rashomon,Akira Kurosawa,1950,"Crime, Drama, Mystery",8.2,100000,null
+186,The Treasure of the Sierra Madre,John Huston,1948,"Adventure, Drama, Western",8.2,5010000,null
+187,Yojimbo,Akira Kurosawa,1961,"Action, Drama, Thriller",8.2,0,null
+188,To Be or Not to Be,Ernst Lubitsch,1942,"Comedy, Romance, War",8.2,0,null
+189,Drishyam,Nishikant Kamat,2015,"Crime, Drama, Mystery",8.2,740000,Netflix
+190,Tumbbad,Rahi Anil Barve,2018,"Drama, Fantasy, Horror",8.2,0,Amazon Prime
+191,Zindagi Na Milegi Dobara,Zoya Akhtar,2011,"Comedy, Drama, Musical",8.2,3110000,Netflix
+192,Miracle in Cell No. 7,Mehmet Ada Öztekin,2019,Drama,8.2,0,Netflix
+193,Pather Panchali,Satyajit Ray,1955,Drama,8.2,540000,null
+194,Z,Costa-Gavras,1969,"Crime, Drama, Thriller",8.2,80000,null
+195,Tokyo Story,Yasujirô Ozu,1953,Drama,8.2,0,null
+196,Children of Heaven,Majid Majidi,1997,"Drama, Family, Sport",8.2,930000,null
+197,Uri: The Surgical Strike,Aditya Dhar,2019,"Action, Drama, History",8.2,4190000,null
+198,Swades,Ashutosh Gowariker,2004,"Drama, Musical",8.2,1220000,Netflix
+199,The Wages of Fear,Henri-Georges Clouzot,1953,"Adventure, Drama, Thriller",8.2,0,null
+200,K.G.F: Chapter 1,Prashanth Neel,2018,"Action, Crime, Drama",8.2,0,null
+201,The Passion of Joan of Arc,Carl Theodor Dreyer,1928,"Biography, Drama, History",8.2,20000,null
+202,My Father and My Son,Çagan Irmak,2005,"Drama, Family",8.2,0,null
+203,Sherlock Jr.,Buster Keaton,1924,"Action, Comedy, Romance",8.2,980000,null
+204,Dersu Uzala,Akira Kurosawa,1975,"Adventure, Biography, Drama",8.2,0,null
+205,Umberto D.,Vittorio De Sica,1952,Drama,8.2,70000,null
+206,Vikram Vedha,Gayatri,2017,"Action, Crime, Drama",8.2,0,Amazon Prime
+207,Paan Singh Tomar,Tigmanshu Dhulia,2012,"Action, Biography, Crime",8.2,40000,Netflix
+208,Rangasthalam 1985,Sukumar,2018,"Action, Drama",8.2,3510000,null
+209,Bhaag Milkha Bhaag,Rakeysh Omprakash Mehra,2013,"Biography, Drama, Sport",8.2,1630000,null
+210,Jaws,Steven Spielberg,1975,"Adventure, Mystery, Thriller",8.1,260000000,Netflix
+211,The Grand Budapest Hotel,Wes Anderson,2014,"Adventure, Comedy, Crime",8.1,59100000,null
+212,Prisoners,Denis Villeneuve,2013,"Crime, Drama, Mystery",8.1,61000000,null
+213,Pirates of the Caribbean: The Curse of the Black Pearl,Gore Verbinski,2003,"Action, Adventure, Fantasy",8.1,305410016,null
+214,Blade Runner,Ridley Scott,1982,"Action, Drama, Sci-Fi",8.1,32869998,null
+215,The Terminator,James Cameron,1984,"Action, Sci-Fi",8.1,38400000,null
+216,Mad Max: Fury Road,George Miller,2015,"Action, Adventure, Sci-Fi",8.1,154060000,null
+217,Gone Girl,David Fincher,2014,"Drama, Mystery, Thriller",8.1,167770000,null
+218,Ford v Ferrari,James Mangold,2019,"Action, Biography, Drama",8.1,117620000,null
+219,The Help,Tate Taylor,2011,Drama,8.1,169710000,Netflix
+220,Logan,James Mangold,2017,"Action, Drama, Sci-Fi",8.1,226280000,null
+221,Catch Me If You Can,Steven Spielberg,2002,"Biography, Crime, Drama",8.1,164620000,"Amazon Prime, Netflix"
+222,The Big Lebowski,Joel Coen,1998,"Comedy, Crime",8.1,17500000,null
+223,Hacksaw Ridge,Mel Gibson,2016,"Biography, Drama, History",8.1,67210000,null
+224,Stand by Me,Rob Reiner,1986,"Adventure, Drama",8.1,52290000,null
+225,Ratatouille,Brad Bird,2007,"Animation, Adventure, Comedy",8.1,206450000,null
+226,Harry Potter and the Deathly Hallows: Part 2,David Yates,2011,"Adventure, Family, Fantasy",8.1,381010016,null
+227,The Exorcist,William Friedkin,1973,Horror,8.1,232910000,Amazon Prime
+228,Inside Out,Pete Docter,2015,"Animation, Adventure, Comedy",8.1,356460000,Amazon Prime
+229,The Handmaiden,Park Chan-wook,2016,"Drama, Romance, Thriller",8.1,2010000,Amazon Prime
+230,Rocky,John G. Avildsen,1976,"Drama, Sport",8.1,117240000,Netflix
+231,On the Waterfront,Elia Kazan,1954,"Crime, Drama, Thriller",8.1,9600000,null
+232,Fargo,Joel Coen,1996,"Crime, Thriller",8.1,24610000,null
+233,Trainspotting,Danny Boyle,1996,Drama,8.1,16500000,Netflix
+234,The Wizard of Oz,Victor Fleming,1939,"Adventure, Family, Fantasy",8.1,2079999.9,null
+235,"Three Billboards Outside Ebbing, Missouri",Martin McDonagh,2017,"Comedy, Crime, Drama",8.1,54510000,null
+236,Dead Poets Society,Peter Weir,1989,"Comedy, Drama",8.1,95860000,null
+237,Into the Wild,Sean Penn,2007,"Adventure, Biography, Drama",8.1,18350000,Netflix
+238,The Deer Hunter,Michael Cimino,1978,"Drama, War",8.1,48980000,null
+239,"Monsters, Inc.",Pete Docter,2001,"Animation, Adventure, Comedy",8.1,289920000,null
+240,Memories of Murder,Bong Joon Ho,2003,"Crime, Drama, Mystery",8.1,10000,null
+241,Room,Lenny Abrahamson,2015,"Drama, Thriller",8.1,14680000,Netflix
+242,Before Sunrise,Richard Linklater,1995,"Drama, Romance",8.1,5540000,null
+243,Rush,Ron Howard,2013,"Action, Biography, Drama",8.1,26950000,Netflix
+244,12 Years a Slave,Steve McQueen,2013,"Biography, Drama, History",8.1,56670000,null
+245,Spotlight,Tom McCarthy,2015,"Biography, Crime, Drama",8.1,45060000,Netflix
+246,The Sound of Music,Robert Wise,1965,"Biography, Drama, Family",8.1,163210000,null
+247,Platoon,Oliver Stone,1986,"Drama, War",8.1,138530000,Netflix
+248,How to Train Your Dragon,Dean DeBlois,2010,"Animation, Action, Adventure",8.1,217580000,null
+249,"Lock, Stock and Two Smoking Barrels",Guy Ritchie,1998,"Action, Comedy, Crime",8.1,3900000,Netflix
+250,Warrior,Gavin O'Connor,2011,"Action, Drama, Sport",8.1,13660000,Netflix
+251,Portrait of a Lady on Fire,Céline Sciamma,2019,Drama,8.1,3760000,null
+252,Gran Torino,Clint Eastwood,2008,Drama,8.1,148100000,Netflix
+253,Million Dollar Baby,Clint Eastwood,2004,"Drama, Sport",8.1,100490000,Netflix
+254,Barry Lyndon,Stanley Kubrick,1975,"Adventure, Drama, War",8.1,0,null
+255,In the Mood for Love,Kar-Wai Wong,2000,"Drama, Romance",8.1,2730000,null
+256,La haine,Mathieu Kassovitz,1995,"Crime, Drama",8.1,310000,null
+257,Hachi: A Dog's Tale,Lasse Hallström,2009,"Biography, Drama, Family",8.1,0,Netflix
+258,My Neighbor Totoro,Hayao Miyazaki,1988,"Animation, Comedy, Family",8.1,1110000,null
+259,Raging Bull,Martin Scorsese,1980,"Biography, Drama, Sport",8.1,23380000,Netflix
+260,Cool Hand Luke,Stuart Rosenberg,1967,"Crime, Drama",8.1,16219999,Netflix
+261,The Iron Giant,Brad Bird,1999,"Animation, Action, Adventure",8.1,23160000,null
+262,Wild Tales,Damián Szifron,2014,"Comedy, Drama, Thriller",8.1,3110000,null
+263,Before Sunset,Richard Linklater,2004,"Drama, Romance",8.1,5820000,null
+264,Stalker,Andrei Tarkovsky,1979,"Drama, Sci-Fi",8.1,230000,Amazon Prime
+265,A Silent Voice: The Movie,Naoko Yamada,2016,"Animation, Drama",8.1,0,null
+266,Network,Sidney Lumet,1976,Drama,8.1,0,null
+267,Ben-Hur,William Wyler,1959,"Adventure, Drama",8.1,74700000,null
+268,"Paris, Texas",Wim Wenders,1984,Drama,8.1,2180000,null
+269,The Seventh Seal,Ingmar Bergman,1957,"Drama, Fantasy",8.1,0,null
+270,The Bridge on the River Kwai,David Lean,1957,"Adventure, Drama, War",8.1,44910000,null
+271,Persona,Ingmar Bergman,1966,"Drama, Thriller",8.1,0,Netflix
+272,In the Name of the Father,Jim Sheridan,1993,"Biography, Crime, Drama",8.1,25010000,null
+273,Hotel Rwanda,Terry George,2004,"Biography, Drama, History",8.1,23530000,null
+274,Amores Perros,Alejandro G. Iñárritu,2000,"Drama, Thriller",8.1,5380000,null
+275,The Message,Moustapha Akkad,1976,"Biography, Drama, History",8.1,0,null
+276,Rebecca,Alfred Hitchcock,1940,"Drama, Film-Noir, Mystery",8.1,4360000,Netflix
+277,Neon Genesis Evangelion: The End of Evangelion,Hideaki Anno,1997,"Animation, Action, Drama",8.1,0,null
+278,The Man Who Shot Liberty Valance,John Ford,1962,"Drama, Western",8.1,0,null
+279,Inherit the Wind,Stanley Kramer,1960,"Biography, Drama, History",8.1,0,null
+280,The Third Man,Carol Reed,1949,"Film-Noir, Mystery, Thriller",8.1,450000,null
+281,Paper Moon,Peter Bogdanovich,1973,"Comedy, Crime, Drama",8.1,30930000,Amazon Prime
+282,The Best Years of Our Lives,William Wyler,1946,"Drama, Romance, War",8.1,23650000,null
+283,The Grapes of Wrath,John Ford,1940,Drama,8.1,60000,null
+284,All Quiet on the Western Front,Lewis Milestone,1930,"Drama, War",8.1,3270000,null
+285,Mary and Max,Adam Elliot,2009,"Animation, Comedy, Drama",8.1,0,null
+286,A Woman Under the Influence,John Cassavetes,1974,"Drama, Romance",8.1,13340000,null
+287,The 400 Blows,François Truffaut,1959,"Crime, Drama",8.1,0,null
+288,Three Colors: Red,Krzysztof Kieslowski,1994,"Drama, Mystery, Romance",8.1,4040000,null
+289,The Celebration,Thomas Vinterberg,1998,Drama,8.1,1650000,null
+290,PK,Rajkumar Hirani,2014,"Comedy, Drama, Sci-Fi",8.1,10620000,Netflix
+291,It Happened One Night,Frank Capra,1934,"Comedy, Romance",8.1,4360000,null
+292,Fanny and Alexander,Ingmar Bergman,1982,Drama,8.1,4970000,null
+293,Bajrangi Bhaijaan,Kabir Khan,2015,"Action, Adventure, Comedy",8.1,8180000.5,null
+294,Wild Strawberries,Ingmar Bergman,1957,"Drama, Romance",8.1,0,null
+295,The Red Shoes,Michael Powell,1948,"Drama, Music, Romance",8.1,10900000,null
+296,Lagaan: Once Upon a Time in India,Ashutosh Gowariker,2001,"Drama, Musical, Sport",8.1,70000,null
+297,Yi Yi: A One and a Two...,Edward Yang,2000,"Drama, Romance",8.1,1140000,null
+298,Underground,Emir Kusturica,1995,"Comedy, Drama, Fantasy",8.1,170000,Amazon Prime
+299,The Battle of Algiers,Gillo Pontecorvo,1966,"Drama, War",8.1,60000,null
+300,Farewell My Concubine,Kaige Chen,1993,"Drama, Music, Romance",8.1,5220000,null
+301,Mr. Smith Goes to Washington,Frank Capra,1939,"Comedy, Drama",8.1,9600000,null
+302,Winter Sleep,Nuri Bilge Ceylan,2014,Drama,8.1,170000,null
+303,Diabolique,Henri-Georges Clouzot,1955,"Crime, Drama, Horror",8.1,1090000,Amazon Prime
+304,Andrei Rublev,Andrei Tarkovsky,1966,"Biography, Drama, History",8.1,100000,null
+305,Dil Chahta Hai,Farhan Akhtar,2001,"Comedy, Drama, Romance",8.1,300000,Netflix
+306,Wolf Children,Mamoru Hosoda,2012,"Animation, Drama, Family",8.1,0,null
+307,The Hidden Fortress,Akira Kurosawa,1958,"Action, Adventure, Drama",8.1,0,null
+308,Ace in the Hole,Billy Wilder,1951,"Drama, Film-Noir",8.1,3970000,null
+309,White Heat,Raoul Walsh,1949,"Action, Crime, Drama",8.1,0,null
+310,The General,Clyde Bruckman,1926,"Action, Adventure, Comedy",8.1,1030000,null
+311,Masaan,Neeraj Ghaywan,2015,Drama,8.1,0,null
+312,The Gold Rush,Charles Chaplin,1925,"Adventure, Comedy, Drama",8.1,5450000,null
+313,Throne of Blood,Akira Kurosawa,1957,Drama,8.1,0,null
+314,Barfi!,Anurag Basu,2012,"Comedy, Drama, Romance",8.1,2800000,Netflix
+315,Talvar,Meghna Gulzar,2015,"Crime, Drama, Mystery",8.1,340000,null
+316,Sunrise,F.W. Murnau,1927,"Drama, Romance",8.1,540000,Netflix
+317,Autumn Sonata,Ingmar Bergman,1978,"Drama, Music",8.1,0,null
+318,A Wednesday,Neeraj Pandey,2008,"Action, Crime, Drama",8.1,0,Netflix
+319,Rififi,Jules Dassin,1955,"Crime, Drama, Thriller",8.1,60000,null
+320,Rang De Basanti,Rakeysh Omprakash Mehra,2006,"Comedy, Crime, Drama",8.1,2200000,Netflix
+321,The Grand Illusion,Jean Renoir,1937,"Drama, War",8.1,170000,null
+322,Raise the Red Lantern,Yimou Zhang,1991,"Drama, Romance",8.1,2600000,null
+323,Nights of Cabiria,Federico Fellini,1957,Drama,8.1,750000,null
+324,Pink,Aniruddha Roy Chowdhury,2016,"Crime, Drama, Thriller",8.1,1240000,Netflix
+325,Let's Go! India,Shimit Amin,2007,"Drama, Family, Sport",8.1,1110000,null
+326,The Virgin Spring,Ingmar Bergman,1960,Drama,8.1,1530000,null
+327,Queen,Vikas Bahl,2013,"Adventure, Comedy, Drama",8.1,1430000,Netflix
+328,Jean de Florette,Claude Berri,1986,"Comedy, Drama",8.1,4940000,null
+329,Article 15,Anubhav Sinha,2019,"Crime, Drama, Mystery",8.1,0,Netflix
+330,Time of the Gypsies,Emir Kusturica,1988,"Comedy, Crime, Drama",8.1,280000,null
+331,Sholay,Ramesh Sippy,1975,"Action, Adventure, Comedy",8.1,0,null
+332,Munna Bhai M.B.B.S.,Rajkumar Hirani,2003,"Comedy, Drama",8.1,0,null
+333,Tangerines,Zaza Urushadze,2013,"Drama, War",8.1,140000,Amazon Prime
+334,Kahaani,Sujoy Ghosh,2012,"Mystery, Thriller",8.1,1039999.94,Netflix
+335,Hera Pheri,Priyadarshan,2000,"Action, Comedy, Crime",8.1,0,Netflix
+336,The Bandit,Yavuz Turgul,1996,"Crime, Drama, Thriller",8.1,0,null
+337,The Circus,Charles Chaplin,1928,"Comedy, Family, Romance",8.1,0,null
+338,Udaan,Vikramaditya Motwane,2010,Drama,8.1,10000,"Amazon Prime, Netflix"
+339,OMG: Oh My God!,Umesh Shukla,2012,"Comedy, Drama, Fantasy",8.1,920000,null
+340,Black,Sanjay Leela Bhansali,2005,Drama,8.1,730000,Netflix
+341,Everything's Gonna Be Great,Ömer Vargi,1998,"Comedy, Drama, Thriller",8.1,0,null
+342,Sarfarosh,John Mathew Matthan,1999,"Action, Drama, Thriller",8.1,0,null
+343,Anand,Hrishikesh Mukherjee,1971,"Drama, Musical",8.1,0,null
+344,Dune,Denis Villeneuve,2021,"Action, Adventure, Drama",8,108330000,null
+345,Blade Runner 2049,Denis Villeneuve,2017,"Action, Drama, Mystery",8,92050000,null
+346,Guardians of the Galaxy,James Gunn,2014,"Action, Adventure, Comedy",8,333180000,null
+347,Deadpool,Tim Miller,2016,"Action, Comedy",8,363070016,null
+348,Rain Man,Barry Levinson,1988,Drama,8,178800000,Netflix
+349,Black Swan,Darren Aronofsky,2010,"Drama, Thriller",8,106950000,null
+350,The Princess Bride,Rob Reiner,1987,"Adventure, Comedy, Family",8,30860000,Amazon Prime
+351,The Avengers,Joss Whedon,2012,"Action, Sci-Fi",8,623280000,null
+352,La La Land,Damien Chazelle,2016,"Comedy, Drama, Music",8,151100000,null
+353,The Martian,Ridley Scott,2015,"Adventure, Drama, Sci-Fi",8,228430000,null
+354,Donnie Darko,Richard Kelly,2001,"Drama, Mystery, Sci-Fi",8,1480000,null
+355,The Incredibles,Brad Bird,2004,"Animation, Action, Adventure",8,261440000,null
+356,Her,Spike Jonze,2013,"Drama, Romance, Sci-Fi",8,25570000,Netflix
+357,Zootopia,Byron Howard,2016,"Animation, Adventure, Comedy",8,341269984,null
+358,The Graduate,Mike Nichols,1967,"Comedy, Drama, Romance",8,104950000,Amazon Prime
+359,Casino Royale,Martin Campbell,2006,"Action, Adventure, Thriller",8,167450000,Netflix
+360,The Revenant,Alejandro G. Iñárritu,2015,"Action, Adventure, Drama",8,183640000,null
+361,The Imitation Game,Morten Tyldum,2014,"Biography, Drama, Thriller",8,91130000,null
+362,Sin City,Frank Miller,2005,"Crime, Thriller",8,74100000,Netflix
+363,CODA,Sian Heder,2021,"Comedy, Drama, Music",8,0,null
+364,Dances with Wolves,Kevin Costner,1990,"Adventure, Drama, Western",8,184210000,Netflix
+365,Magnolia,Paul Thomas Anderson,1999,Drama,8,22460000,Netflix
+366,Slumdog Millionaire,Danny Boyle,2008,"Crime, Drama, Romance",8,141320000,null
+367,Scent of a Woman,Martin Brest,1992,Drama,8,63900000,null
+368,Soul,Pete Docter,2020,"Animation, Adventure, Comedy",8,0,null
+369,Groundhog Day,Harold Ramis,1993,"Comedy, Drama, Fantasy",8,70910000,null
+370,Do the Right Thing,Spike Lee,1989,"Comedy, Drama",8,27550000,"Amazon Prime, Netflix"
+371,Dog Day Afternoon,Sidney Lumet,1975,"Biography, Crime, Drama",8,50000000,null
+372,Young Frankenstein,Mel Brooks,1974,Comedy,8,86300000,Amazon Prime
+373,Aladdin,Ron Clements,1992,"Animation, Adventure, Comedy",8,217350000,null
+374,Blood Diamond,Edward Zwick,2006,"Adventure, Drama, Thriller",8,57370000,null
+375,12 Monkeys,Terry Gilliam,1995,"Mystery, Sci-Fi, Thriller",8,57140000,null
+376,The Pursuit of Happyness,Gabriele Muccino,2006,"Biography, Drama",8,163570000,Netflix
+377,Big Fish,Tim Burton,2003,"Adventure, Drama, Fantasy",8,66260004,null
+378,Beauty and the Beast,Gary Trousdale,1991,"Animation, Family, Fantasy",8,218970000,Amazon Prime
+379,JFK,Oliver Stone,1991,"Drama, History, Thriller",8,70410000,null
+380,High Noon,Fred Zinnemann,1952,"Drama, Thriller, Western",8,9450000,Amazon Prime
+381,Planet of the Apes,Franklin J. Schaffner,1968,"Adventure, Sci-Fi",8,33400002,null
+382,The Bourne Ultimatum,Paul Greengrass,2007,"Action, Mystery, Thriller",8,227470000,null
+383,Akira,Katsuhiro Ôtomo,1988,"Animation, Action, Drama",8,550000,null
+384,Rosemary's Baby,Roman Polanski,1968,"Drama, Horror",8,0,"Amazon Prime, Netflix"
+385,Perfect Blue,Satoshi Kon,1997,"Animation, Crime, Drama",8,780000,null
+386,The Invisible Guest,Oriol Paulo,2016,"Crime, Drama, Mystery",8,0,Netflix
+387,Kill Bill: Vol. 2,Quentin Tarantino,2004,"Action, Crime, Thriller",8,66210000,Netflix
+388,Life of Brian,Terry Jones,1979,Comedy,8,20050000,null
+389,Butch Cassidy and the Sundance Kid,George Roy Hill,1969,"Biography, Crime, Drama",8,102310000,Amazon Prime
+390,The King's Speech,Tom Hooper,2010,"Biography, Drama, History",8,138800000,Netflix
+391,Dogville,Lars von Trier,2003,"Crime, Drama",8,1530000,null
+392,Fiddler on the Roof,Norman Jewison,1971,"Drama, Family, Musical",8,80500000,Netflix
+393,Lion,Garth Davis,2016,"Biography, Drama",8,51740000,null
+394,What Ever Happened to Baby Jane?,Robert Aldrich,1962,"Drama, Horror, Thriller",8,4050000.2,null
+395,Ip Man,Wilson Yip,2008,"Action, Biography, Drama",8,0,"Amazon Prime, Netflix"
+396,Sling Blade,Billy Bob Thornton,1996,Drama,8,24480000,Netflix
+397,Chungking Express,Kar-Wai Wong,1994,"Comedy, Crime, Drama",8,600000,null
+398,Roman Holiday,William Wyler,1953,"Comedy, Romance",8,0,Amazon Prime
+399,Papillon,Franklin J. Schaffner,1973,"Biography, Crime, Drama",8,53270000,Amazon Prime
+400,Mommy,Xavier Dolan,2014,Drama,8,3490000,null
+401,Being There,Hal Ashby,1979,"Comedy, Drama",8,30180000,null
+402,The Last Picture Show,Peter Bogdanovich,1971,"Drama, Romance",8,29130000,null
+403,8½,Federico Fellini,1963,"Biography, Drama",8,50000,null
+404,Annie Hall,Woody Allen,1977,"Comedy, Romance",8,39200000,Amazon Prime
+405,Nausicaä of the Valley of the Wind,Hayao Miyazaki,1984,"Animation, Adventure, Sci-Fi",8,500000,null
+406,The Maltese Falcon,John Huston,1941,"Crime, Film-Noir, Mystery",8,2110000,null
+407,Solaris,Andrei Tarkovsky,1972,"Drama, Mystery, Sci-Fi",8,0,null
+408,Castle in the Sky,Hayao Miyazaki,1986,"Animation, Adventure, Family",8,0,null
+409,Rio Bravo,Howard Hawks,1959,"Drama, Western",8,12540000,null
+410,Pink Floyd: The Wall,Alan Parker,1982,"Drama, Fantasy, Music",8,22240000,null
+411,Cinderella Man,Ron Howard,2005,"Biography, Drama, Romance",8,61650000,null
+412,The Legend of 1900,Giuseppe Tornatore,1998,"Drama, Music, Romance",8,259999.98,null
+413,The Night of the Hunter,Charles Laughton,1955,"Crime, Drama, Film-Noir",8,650000,null
+414,Fitzcarraldo,Werner Herzog,1982,"Adventure, Drama",8,0,null
+415,La Dolce Vita,Federico Fellini,1960,"Comedy, Drama",8,19520000,null
+416,Gandhi,Richard Attenborough,1982,"Biography, Drama, History",8,52770000,null
+417,Wings of Desire,Wim Wenders,1987,"Drama, Fantasy, Romance",8,3330000,null
+418,Who's Afraid of Virginia Woolf?,Mike Nichols,1966,Drama,8,0,null
+419,Infernal Affairs,Andrew Lau,2002,"Action, Crime, Drama",8,170000,null
+420,The Straight Story,David Lynch,1999,"Biography, Drama",8,6200000,null
+421,Baahubali: The Beginning,S.S. Rajamouli,2015,"Action, Drama",8,6740000,null
+422,Anatomy of a Murder,Otto Preminger,1959,"Drama, Mystery",8,11900000,null
+423,Wolfwalkers,Tomm Moore,2020,"Animation, Action, Adventure",8,0,null
+424,Touch of Evil,Orson Welles,1958,"Crime, Drama, Film-Noir",8,2240000,null
+425,Mirror,Andrei Tarkovsky,1975,"Biography, Drama",8,180000,null
+426,The Cabinet of Dr. Caligari,Robert Wiene,1920,"Horror, Mystery, Thriller",8,0,null
+427,The Hustler,Robert Rossen,1961,"Drama, Sport",8,8279999.5,null
+428,The Leopard,Luchino Visconti,1963,"Drama, History",8,0,null
+429,Out of the Past,Jacques Tourneur,1947,"Crime, Drama, Film-Noir",8,0,null
+430,Le Samouraï,Jean-Pierre Melville,1967,"Crime, Drama, Thriller",8,40000,null
+431,Elite Squad,José Padilha,2007,"Action, Crime, Drama",8,10000,null
+432,Sweet Smell of Success,Alexander Mackendrick,1957,"Drama, Film-Noir",8,0,null
+433,The Tale of The Princess Kaguya,Isao Takahata,2013,"Animation, Drama, Family",8,1510000,null
+434,Nobody Knows,Kore-eda Hirokazu,2004,Drama,8,680000,null
+435,Sleuth,Joseph L. Mankiewicz,1972,"Mystery, Thriller",8,4080000,null
+436,Stalag 17,Billy Wilder,1953,"Comedy, Drama, War",8,0,null
+437,Secrets & Lies,Mike Leigh,1996,"Comedy, Drama",8,13420000,null
+438,The Diving Bell and the Butterfly,Julian Schnabel,2007,"Biography, Drama",8,5990000,null
+439,Song of the Sea,Tomm Moore,2014,"Animation, Adventure, Drama",8,860000,null
+440,The Sea Inside,Alejandro Amenábar,2004,"Biography, Drama",8,2089999.9,null
+441,My Sassy Girl,Jae-young Kwak,2001,"Comedy, Drama, Romance",8,0,Netflix
+442,Cries & Whispers,Ingmar Bergman,1972,Drama,8,1740000,null
+443,Brief Encounter,David Lean,1945,"Drama, Romance",8,0,null
+444,Nostalghia,Andrei Tarkovsky,1983,Drama,8,10000,null
+445,Dilwale Dulhania Le Jayenge,Aditya Chopra,1995,"Drama, Romance",8,0,Amazon Prime
+446,Departures,Yôjirô Takita,2008,Drama,8,1500000,null
+447,Persepolis,Vincent Paronnaud,2007,"Animation, Biography, Drama",8,4450000,null
+448,M.S. Dhoni: The Untold Story,Mathur Goswami,2016,"Biography, Drama, Sport",8,1780000,null
+449,La strada,Federico Fellini,1954,Drama,8,0,null
+450,"Black Cat, White Cat",Emir Kusturica,1998,"Comedy, Crime, Romance",8,350000,null
+451,"Quo Vadis, Aida?",Jasmila Zbanic,2020,"Drama, History, War",8,0,null
+452,The Wild Pear Tree,Nuri Bilge Ceylan,2018,Drama,8,30000,null
+453,"Goodbye, Children",Louis Malle,1987,"Drama, War",8,4540000,null
+454,Ivan's Childhood,Andrei Tarkovsky,1962,"Drama, War",8,0,null
+455,"Spring, Summer, Fall, Winter... and Spring",Kim Ki-duk,2003,"Drama, Romance",8,2380000,null
+456,Haider,Vishal Bhardwaj,2014,"Action, Crime, Drama",8,900000,Netflix
+457,Elite Squad 2: The Enemy Within,José Padilha,2010,"Action, Crime, Drama",8,100000,null
+458,The Shop Around the Corner,Ernst Lubitsch,1940,"Comedy, Drama, Romance",8,200000,null
+459,Kind Hearts and Coronets,Robert Hamer,1949,"Comedy, Crime",8,0,null
+460,Sanjuro,Akira Kurosawa,1962,"Action, Drama, Thriller",8,0,null
+461,The Exterminating Angel,Luis Buñuel,1962,"Drama, Fantasy",8,0,null
+462,Central Station,Walter Salles,1998,Drama,8,5600000,null
+463,G.O.R.A.,Ömer Faruk Sorak,2004,"Adventure, Comedy, Sci-Fi",8,0,null
+464,"Rome, Open City",Roberto Rossellini,1945,"Drama, Thriller, War",8,0,null
+465,Tae Guk Gi: The Brotherhood of War,Je-kyu Kang,2004,"Action, Drama, War",8,1110000,null
+466,Winter Light,Ingmar Bergman,1963,Drama,8,0,null
+467,"Carry On, Munna Bhai",Rajkumar Hirani,2006,"Comedy, Drama, Romance",8,2220000,null
+468,Special 26,Neeraj Pandey,2013,"Crime, Drama, Thriller",8,1080000,Netflix
+469,The Breath,Levent Semerci,2009,"Action, Drama, Thriller",8,0,null
+470,Andaz Apna Apna,Rajkumar Santoshi,1994,"Action, Comedy, Romance",8,0,Netflix
+471,Vizontele,Yilmaz Erdogan,2001,"Comedy, Drama",8,0,Netflix
+472,Titanic,James Cameron,1997,"Drama, Romance",7.9,659330050,null
+473,John Wick: Chapter 4,Chad Stahelski,2023,"Action, Crime, Thriller",7.9,0,null
+474,Avatar,James Cameron,2009,"Action, Adventure, Fantasy",7.9,760510020,null
+475,Puss in Boots: The Last Wish,Joel Crawford,2022,"Animation, Adventure, Comedy",7.9,168460000,null
+476,Zack Snyder's Justice League,Zack Snyder,2021,"Action, Adventure, Fantasy",7.9,0,null
+477,Arrival,Denis Villeneuve,2016,"Drama, Mystery, Sci-Fi",7.9,100550000,null
+478,Fantastic Mr. Fox,Wes Anderson,2009,"Animation, Adventure, Comedy",7.9,21000000,null
+479,Knives Out,Rian Johnson,2019,"Comedy, Crime, Drama",7.9,165360000,Amazon Prime
+480,Iron Man,Jon Favreau,2008,"Action, Adventure, Sci-Fi",7.9,318410016,null
+481,Mulholland Drive,David Lynch,2001,"Drama, Mystery, Thriller",7.9,7220000,null
+482,Harry Potter and the Prisoner of Azkaban,Alfonso Cuarón,2004,"Adventure, Family, Fantasy",7.9,249360000,null
+483,Star Trek,J.J. Abrams,2009,"Action, Adventure, Sci-Fi",7.9,257730016,Netflix
+484,True Romance,Tony Scott,1993,"Crime, Drama, Romance",7.9,12280000,null
+485,Boogie Nights,Paul Thomas Anderson,1997,Drama,7.9,26400000,Netflix
+486,Edward Scissorhands,Tim Burton,1990,"Drama, Fantasy, Romance",7.9,56360000,null
+487,Edge of Tomorrow,Doug Liman,2014,"Action, Adventure, Sci-Fi",7.9,100210000,null
+488,The Perks of Being a Wallflower,Stephen Chbosky,2012,Drama,7.9,17740000,Netflix
+489,X-Men: Days of Future Past,Bryan Singer,2014,"Action, Adventure, Sci-Fi",7.9,233920000,null
+490,Shaun of the Dead,Edgar Wright,2004,"Comedy, Horror",7.9,13540000,null
+491,Almost Famous,Cameron Crowe,2000,"Adventure, Comedy, Drama",7.9,32529998,Amazon Prime
+492,Jojo Rabbit,Taika Waititi,2019,"Comedy, Drama, War",7.9,33369998,null
+493,The Bourne Identity,Doug Liman,2002,"Action, Mystery, Thriller",7.9,121660000,null
+494,Bohemian Rhapsody,Bryan Singer,2018,"Biography, Drama, Music",7.9,216430000,null
+495,Thor: Ragnarok,Taika Waititi,2017,"Action, Adventure, Comedy",7.9,315060000,Netflix
+496,Charade,Stanley Donen,1963,"Comedy, Mystery, Romance",7.9,13470000,Amazon Prime
+497,E.T. the Extra-Terrestrial,Steven Spielberg,1982,"Adventure, Family, Sci-Fi",7.9,435109984,null
+498,Shrek,Andrew Adamson,2001,"Animation, Adventure, Comedy",7.9,267670016,null
+499,Rope,Alfred Hitchcock,1948,"Crime, Drama, Mystery",7.9,0,null
+500,Life of Pi,Ang Lee,2012,"Adventure, Drama, Fantasy",7.9,124990000,null
+501,In Bruges,Martin McDonagh,2008,"Comedy, Crime, Drama",7.9,7760000,Amazon Prime
+502,Children of Men,Alfonso Cuarón,2006,"Action, Drama, Sci-Fi",7.9,35550000,null
+503,The Blues Brothers,John Landis,1980,"Action, Adventure, Comedy",7.9,57230000,null
+504,Mystic River,Clint Eastwood,2003,"Crime, Drama, Mystery",7.9,90140000,Netflix
+505,Dallas Buyers Club,Jean-Marc Vallée,2013,"Biography, Drama",7.9,27300000,Netflix
+506,District 9,Neill Blomkamp,2009,"Action, Sci-Fi, Thriller",7.9,115650000,Netflix
+507,Marriage Story,Noah Baumbach,2019,"Drama, Romance",7.9,2000000,Netflix
+508,Wonder,Stephen Chbosky,2017,"Drama, Family",7.9,132420000,null
+509,All the President's Men,Alan J. Pakula,1976,"Drama, History, Thriller",7.9,70600000,null
+510,Toy Story 2,John Lasseter,1999,"Animation, Adventure, Comedy",7.9,245850000,null
+511,The Searchers,John Ford,1956,"Adventure, Drama, Western",7.9,0,null
+512,Boyhood,Richard Linklater,2014,Drama,7.9,25380000,null
+513,This Is Spinal Tap,Rob Reiner,1984,"Comedy, Music",7.9,4740000,null
+514,Carlito's Way,Brian De Palma,1993,"Crime, Drama, Thriller",7.9,36950000,null
+515,The Man from Earth,Richard Schenkman,2007,"Drama, Fantasy, Mystery",7.9,0,null
+516,Bound by Honor,Taylor Hackford,1993,"Crime, Drama",7.9,4500000,null
+517,Brazil,Terry Gilliam,1985,"Drama, Sci-Fi",7.9,9930000,null
+518,Ghost in the Shell,Mamoru Oshii,1995,"Animation, Action, Crime",7.9,519999.97,null
+519,The Nightmare Before Christmas,Henry Selick,1993,"Animation, Family, Fantasy",7.9,75080000,null
+520,Before Midnight,Richard Linklater,2013,"Drama, Romance",7.9,8109999.5,null
+521,A Fistful of Dollars,Sergio Leone,1964,"Action, Drama, Western",7.9,14500000,null
+522,Spartacus,Stanley Kubrick,1960,"Adventure, Biography, Drama",7.9,30000000,Netflix
+523,The Wrestler,Darren Aronofsky,2008,"Drama, Sport, Thriller",7.9,26240000,null
+524,A Streetcar Named Desire,Elia Kazan,1951,Drama,7.9,8000000,null
+525,The Ten Commandments,Cecil B. DeMille,1956,"Adventure, Drama, Family",7.9,93740000,null
+526,"Crouching Tiger, Hidden Dragon",Ang Lee,2000,"Action, Adventure, Drama",7.9,128080000,Netflix
+527,Let the Right One In,Tomas Alfredson,2008,"Drama, Fantasy, Horror",7.9,2120000,null
+528,The Wild Bunch,Sam Peckinpah,1969,"Action, Adventure, Drama",7.9,12060000,null
+529,In the Heat of the Night,Norman Jewison,1967,"Drama, Mystery, Thriller",7.9,24380000,null
+530,Doctor Zhivago,David Lean,1965,"Drama, Romance, War",7.9,111720000,Netflix
+531,The Raid 2,Gareth Evans,2014,"Action, Crime, Thriller",7.9,2630000,null
+532,Nosferatu,F.W. Murnau,1922,"Fantasy, Horror",7.9,0,null
+533,The Manchurian Candidate,John Frankenheimer,1962,"Drama, Thriller",7.9,0,null
+534,Once Were Warriors,Lee Tamahori,1994,"Crime, Drama",7.9,2200000,null
+535,Sing Street,John Carney,2016,"Comedy, Drama, Music",7.9,3240000,null
+536,Harold and Maude,Hal Ashby,1971,"Comedy, Drama, Romance",7.9,0,Amazon Prime
+537,Togo,Ericson Core,2019,"Adventure, Biography, Drama",7.9,0,null
+538,Notorious,Alfred Hitchcock,1946,"Drama, Film-Noir, Romance",7.9,10460000,null
+539,Hero,Yimou Zhang,2002,"Action, Adventure, Drama",7.9,53710000,"Amazon Prime, Netflix"
+540,The Lion in Winter,Anthony Harvey,1968,"Biography, Drama, History",7.9,22280000,null
+541,The Artist,Michel Hazanavicius,2011,"Comedy, Drama, Romance",7.9,44670000,Netflix
+542,King Kong,Merian C. Cooper,1933,"Adventure, Horror, Sci-Fi",7.9,10000000,null
+543,Shoplifters,Kore-eda Hirokazu,2018,"Crime, Drama, Thriller",7.9,3310000,null
+544,A Christmas Story,Bob Clark,1983,"Comedy, Family",7.9,20610000,null
+545,The Killing,Stanley Kubrick,1956,"Crime, Drama, Film-Noir",7.9,0,null
+546,Dancer in the Dark,Lars von Trier,2000,"Crime, Drama, Musical",7.9,4179999.8,null
+547,Three Colors: Blue,Krzysztof Kieslowski,1993,"Drama, Music, Mystery",7.9,1320000,null
+548,Strangers on a Train,Alfred Hitchcock,1951,"Crime, Drama, Film-Noir",7.9,7630000,null
+549,Short Term 12,Destin Daniel Cretton,2013,Drama,7.9,1010000,Netflix
+550,The Red Circle,Jean-Pierre Melville,1970,"Crime, Drama, Thriller",7.9,370000,null
+551,Patton,Franklin J. Schaffner,1970,"Biography, Drama, War",7.9,61700000,null
+552,The Big Sleep,Howard Hawks,1946,"Crime, Film-Noir, Mystery",7.9,6540000,Amazon Prime
+553,About Elly,Asghar Farhadi,2009,"Drama, Mystery",7.9,110000,null
+554,The Philadelphia Story,George Cukor,1940,"Comedy, Romance",7.9,0,null
+555,Cat on a Hot Tin Roof,Richard Brooks,1958,Drama,7.9,17570000,Netflix
+556,Arsenic and Old Lace,Frank Capra,1944,"Comedy, Crime, Thriller",7.9,0,null
+557,Head-On,Fatih Akin,2004,"Drama, Romance",7.9,0,null
+558,The Conformist,Bernardo Bertolucci,1970,Drama,7.9,540000,null
+559,Amour,Michael Haneke,2012,Drama,7.9,6740000,null
+560,Talk to Her,Pedro Almodóvar,2002,"Drama, Mystery, Romance",7.9,9360000,Amazon Prime
+561,Kal Ho Naa Ho,Nikkhil Advani,2003,"Comedy, Drama, Musical",7.9,1790000,"Amazon Prime, Netflix"
+562,The Thin Man,W.S. Van Dyke,1934,"Comedy, Crime, Mystery",7.9,0,null
+563,The Sacrifice,Andrei Tarkovsky,1986,Drama,7.9,300000,null
+564,In a Lonely Place,Nicholas Ray,1950,"Drama, Film-Noir, Mystery",7.9,0,Amazon Prime
+565,I Remember,Federico Fellini,1973,"Comedy, Drama",7.9,580000,null
+566,The Adventures of Robin Hood,Michael Curtiz,1938,"Action, Adventure, Romance",7.9,3980000,null
+567,My Name Is Khan,Karan Johar,2010,"Adventure, Drama, Romance",7.9,4020000,null
+568,A Taxi Driver,Hun Jang,2017,"Action, Drama, History",7.9,1530000,Amazon Prime
+569,Mildred Pierce,Michael Curtiz,1945,"Crime, Drama, Film-Noir",7.9,0,null
+570,Laura,Otto Preminger,1944,"Drama, Film-Noir, Mystery",7.9,4360000,null
+571,In Cold Blood,Richard Brooks,1967,"Biography, Crime, Drama",7.9,0,null
+572,Harvey,Henry Koster,1950,"Comedy, Drama, Fantasy",7.9,0,null
+573,Sullivan's Travels,Preston Sturges,1941,"Adventure, Comedy, Drama",7.9,0,null
+574,3-Iron,Kim Ki-duk,2004,"Crime, Drama, Romance",7.9,240000,null
+575,C.R.A.Z.Y.,Jean-Marc Vallée,2005,"Comedy, Drama",7.9,0,null
+576,The Way He Looks,Daniel Ribeiro,2014,"Drama, Romance",7.9,100000,null
+577,Kagemusha,Akira Kurosawa,1980,"Drama, History, War",7.9,0,null
+578,Gully Boy,Zoya Akhtar,2019,"Drama, Music, Romance",7.9,5570000,Amazon Prime
+579,Miracle on 34th Street,George Seaton,1947,"Comedy, Drama, Family",7.9,2650000,null
+580,Nine Queens,Fabián Bielinsky,2000,"Crime, Drama, Thriller",7.9,1220000,null
+581,Elevator to the Gallows,Louis Malle,1958,"Crime, Drama, Thriller",7.9,110000,null
+582,Super 30,Vikas Bahl,2019,"Biography, Drama",7.9,2270000,null
+583,The Lost Weekend,Billy Wilder,1945,"Drama, Film-Noir",7.9,9460000,null
+584,"4 Months, 3 Weeks and 2 Days",Cristian Mungiu,2007,Drama,7.9,1190000,null
+585,Battleship Potemkin,Sergei Eisenstein,1925,"Drama, History, Thriller",7.9,50000,null
+586,Hiroshima Mon Amour,Alain Resnais,1959,"Drama, Romance",7.9,90000,null
+587,The Big Heat,Fritz Lang,1953,"Crime, Film-Noir, Thriller",7.9,0,null
+588,Dev.D,Anurag Kashyap,2009,"Comedy, Drama, Romance",7.9,10000,Netflix
+589,The Rules of the Game,Jean Renoir,1939,"Comedy, Drama",7.9,0,null
+590,Jab We Met,Imtiaz Ali,2007,"Comedy, Drama, Romance",7.9,410000,Netflix
+591,The Return,Andrey Zvyagintsev,2003,Drama,7.9,500000,null
+592,Beauty and the Beast,Jean Cocteau,1946,"Drama, Fantasy, Romance",7.9,300000,Amazon Prime
+593,No Man's Land,Danis Tanovic,2001,"Comedy, Drama, War",7.9,1060000,null
+594,Badhaai Ho,Amit Ravindernath Sharma,2018,"Comedy, Drama",7.9,0,null
+595,Through a Glass Darkly,Ingmar Bergman,1961,Drama,7.9,0,null
+596,Pad Man,R. Balki,2018,"Comedy, Drama",7.9,1660000,Netflix
+597,Baby,Neeraj Pandey,2015,"Action, Crime, Thriller",7.9,0,Netflix
+598,Airlift,Raja Menon,2016,"Action, Drama, History",7.9,0,null
+599,The Batman,Matt Reeves,2022,"Action, Crime, Drama",7.8,369350016,null
+600,Everything Everywhere All at Once,Daniel Kwan,2022,"Action, Adventure, Comedy",7.8,72860000,null
+601,Tombstone,George P. Cosmatos,1993,"Biography, Drama, History",7.8,56510000,null
+602,Little Miss Sunshine,Jonathan Dayton,2006,"Comedy, Drama",7.8,59890000,Amazon Prime
+603,Dunkirk,Christopher Nolan,2017,"Action, Drama, History",7.8,188370000,null
+604,A Bronx Tale,Robert De Niro,1993,"Crime, Drama",7.8,17270000,null
+605,Moonrise Kingdom,Wes Anderson,2012,"Comedy, Drama, Family",7.8,45510000,null
+606,The Breakfast Club,John Hughes,1985,"Comedy, Drama",7.8,45880000,null
+607,The Gentlemen,Guy Ritchie,2019,"Action, Comedy, Crime",7.8,36470000,null
+608,Get Out,Jordan Peele,2017,"Horror, Mystery, Thriller",7.8,176040000,null
+609,The Notebook,Nick Cassavetes,2004,"Drama, Romance",7.8,81000000,null
+610,All Quiet on the Western Front,Edward Berger,2022,"Action, Drama, War",7.8,0,null
+611,Drive,Nicolas Winding Refn,2011,"Action, Drama",7.8,35060000,Netflix
+612,Pride & Prejudice,Joe Wright,2005,"Drama, Romance",7.8,38410000,null
+613,The Big Short,Adam McKay,2015,"Biography, Comedy, Drama",7.8,70260000,null
+614,Hot Fuzz,Edgar Wright,2007,"Action, Comedy, Mystery",7.8,23640000,null
+615,Call Me by Your Name,Luca Guadagnino,2017,"Drama, Romance",7.8,18100000,null
+616,RRR,S.S. Rajamouli,2022,"Action, Drama",7.8,14500000,null
+617,About Time,Richard Curtis,2013,"Comedy, Drama, Fantasy",7.8,15320000,Netflix
+618,The Hateful Eight,Quentin Tarantino,2015,"Crime, Drama, Mystery",7.8,54120000,Netflix
+619,Ghostbusters,Ivan Reitman,1984,"Action, Comedy, Fantasy",7.8,238630000,null
+620,The Irishman,Martin Scorsese,2019,"Biography, Crime, Drama",7.8,7000000,Netflix
+621,Little Women,Greta Gerwig,2019,"Drama, Romance",7.8,108100000,Amazon Prime
+622,The Girl with the Dragon Tattoo,David Fincher,2011,"Crime, Drama, Mystery",7.8,102520000,Netflix
+623,The Sandlot,David Mickey Evans,1993,"Comedy, Drama, Family",7.8,32419998,null
+624,Predator,John McTiernan,1987,"Action, Adventure, Horror",7.8,59740000,null
+625,The Social Network,David Fincher,2010,"Biography, Drama",7.8,96960000,"Amazon Prime, Netflix"
+626,Isle of Dogs,Wes Anderson,2018,"Animation, Adventure, Comedy",7.8,32020000,null
+627,Remember the Titans,Boaz Yakin,2000,"Biography, Drama, Sport",7.8,115650000,null
+628,Ferris Bueller's Day Off,John Hughes,1986,Comedy,7.8,70140000,Netflix
+629,The Hobbit: An Unexpected Journey,Peter Jackson,2012,"Adventure, Fantasy",7.8,303000000,null
+630,Rogue One: A Star Wars Story,Gareth Edwards,2016,"Action, Adventure, Sci-Fi",7.8,532180000,null
+631,Star Wars: Episode VII - The Force Awakens,J.J. Abrams,2015,"Action, Adventure, Sci-Fi",7.8,936659970,null
+632,Apocalypto,Mel Gibson,2006,"Action, Adventure, Drama",7.8,50870000,null
+633,Nightcrawler,Dan Gilroy,2014,"Crime, Drama, Thriller",7.8,32380002,Netflix
+634,The Fugitive,Andrew Davis,1993,"Action, Crime, Drama",7.8,183880000,null
+635,Hidden Figures,Theodore Melfi,2016,"Biography, Drama, History",7.8,169610000,null
+636,American Gangster,Ridley Scott,2007,"Biography, Crime, Drama",7.8,130160000,null
+637,Atonement,Joe Wright,2007,"Drama, Mystery, Romance",7.8,50930000,Amazon Prime
+638,The Killing Fields,Roland Joffé,1984,"Biography, Drama, History",7.8,34700000,null
+639,The Curious Case of Benjamin Button,David Fincher,2008,"Drama, Fantasy, Romance",7.8,127510000,null
+640,Captain America: Civil War,Anthony Russo,2016,"Action, Sci-Fi",7.8,408080000,null
+641,The Untouchables,Brian De Palma,1987,"Crime, Drama, Thriller",7.8,76270000,null
+642,Taken,Pierre Morel,2008,"Action, Crime, Thriller",7.8,145000000,"Amazon Prime, Netflix"
+643,Cast Away,Robert Zemeckis,2000,"Adventure, Drama, Romance",7.8,233630000,null
+644,Back to the Future Part II,Robert Zemeckis,1989,"Adventure, Comedy, Sci-Fi",7.8,118500000,null
+645,The Worst Person in the World,Joachim Trier,2021,"Comedy, Drama, Romance",7.8,0,null
+646,Willy Wonka & the Chocolate Factory,Mel Stuart,1971,"Family, Fantasy, Musical",7.8,4000000,Netflix
+647,The Outlaw Josey Wales,Clint Eastwood,1976,Western,7.8,31800000,Netflix
+648,Captain America: The Winter Soldier,Anthony Russo,2014,"Action, Adventure, Sci-Fi",7.8,259769984,null
+649,Skyfall,Sam Mendes,2012,"Action, Adventure, Thriller",7.8,304360000,null
+650,Captain Phillips,Paul Greengrass,2013,"Action, Biography, Crime",7.8,107100000,null
+651,Manchester by the Sea,Kenneth Lonergan,2016,Drama,7.8,47700000,Amazon Prime
+652,Captain Fantastic,Matt Ross,2016,"Comedy, Drama",7.8,5880000,Netflix
+653,The Hobbit: The Desolation of Smaug,Peter Jackson,2013,Fantasy,7.8,258370000,null
+654,Gattaca,Andrew Niccol,1997,"Drama, Sci-Fi, Thriller",7.8,12340000,null
+655,Misery,Rob Reiner,1990,"Drama, Thriller",7.8,61280000,null
+656,The Last Samurai,Edward Zwick,2003,"Action, Drama",7.8,111110000,null
+657,Big Hero 6,Don Hall,2014,"Animation, Action, Adventure",7.8,222530000,null
+658,Thirteen Lives,Ron Howard,2022,"Action, Adventure, Biography",7.8,0,null
+659,Midnight Cowboy,John Schlesinger,1969,Drama,7.8,44790000,null
+660,Boyz n the Hood,John Singleton,1991,"Crime, Drama",7.8,57500000,null
+661,I Saw the Devil,Jee-woon Kim,2010,"Action, Crime, Thriller",7.8,129999.99,null
+662,Mary Poppins,Robert Stevenson,1964,"Comedy, Family, Fantasy",7.8,102270000,null
+663,Walk the Line,James Mangold,2005,"Biography, Drama, Music",7.8,119520000,null
+664,East of Eden,Elia Kazan,1955,Drama,7.8,0,null
+665,Straight Outta Compton,F. Gary Gray,2015,"Biography, Drama, History",7.8,161200000,null
+666,The Conversation,Francis Ford Coppola,1974,"Drama, Mystery, Thriller",7.8,4420000,null
+667,Glory,Edward Zwick,1989,"Biography, Drama, History",7.8,26830000,null
+668,Awakenings,Penny Marshall,1990,"Biography, Drama",7.8,52100000,null
+669,Serenity,Joss Whedon,2005,"Action, Adventure, Sci-Fi",7.8,25510000,null
+670,Moon,Duncan Jones,2009,"Drama, Mystery, Sci-Fi",7.8,5010000,Netflix
+671,The Holy Mountain,Alejandro Jodorowsky,1973,"Adventure, Drama, Fantasy",7.8,60000,null
+672,The Right Stuff,Philip Kaufman,1983,"Adventure, Biography, Drama",7.8,21500000,null
+673,The Fighter,David O. Russell,2010,"Action, Biography, Drama",7.8,93620000,Netflix
+674,Mississippi Burning,Alan Parker,1988,"Crime, Drama, Mystery",7.8,34600000,null
+675,The King of Comedy,Martin Scorsese,1982,"Comedy, Crime, Drama",7.8,2500000,null
+676,The Fall,Tarsem Singh,2006,"Adventure, Drama, Fantasy",7.8,2280000,Amazon Prime
+677,Paddington 2,Paul King,2017,"Adventure, Comedy, Family",7.8,40440000,null
+678,The Girl with the Dragon Tattoo,Niels Arden Oplev,2009,"Crime, Drama, Mystery",7.8,10100000,Netflix
+679,Kiki's Delivery Service,Hayao Miyazaki,1989,"Animation, Family, Fantasy",7.8,0,null
+680,How to Train Your Dragon 2,Dean DeBlois,2014,"Animation, Action, Adventure",7.8,177000000,Netflix
+681,The Remains of the Day,James Ivory,1993,"Drama, Romance",7.8,22950000,null
+682,Pride,Matthew Warchus,2014,"Biography, Comedy, Drama",7.8,0,Amazon Prime
+683,Hunt for the Wilderpeople,Taika Waititi,2016,"Adventure, Comedy, Drama",7.8,5200000,Netflix
+684,The Insider,Michael Mann,1999,"Biography, Drama, Thriller",7.8,28970000,null
+685,Changeling,Clint Eastwood,2008,"Biography, Crime, Drama",7.8,35740000,null
+686,Ed Wood,Tim Burton,1994,"Biography, Comedy, Drama",7.8,5890000,null
+687,Night of the Living Dead,George A. Romero,1968,"Horror, Thriller",7.8,90000,null
+688,The Day the Earth Stood Still,Robert Wise,1951,"Drama, Sci-Fi",7.8,0,null
+689,The Best Offer,Giuseppe Tornatore,2013,"Crime, Drama, Mystery",7.8,90000,null
+690,Dawn of the Dead,George A. Romero,1978,"Horror, Thriller",7.8,5100000,null
+691,My Fair Lady,George Cukor,1964,"Drama, Family, Musical",7.8,72000000,Netflix
+692,Kramer vs. Kramer,Robert Benton,1979,Drama,7.8,106260000,null
+693,My Left Foot,Jim Sheridan,1989,"Biography, Drama",7.8,14740000,null
+694,The Day of the Jackal,Fred Zinnemann,1973,"Crime, Drama, Thriller",7.8,16059999,null
+695,Bringing Up Baby,Howard Hawks,1938,Comedy,7.8,0,null
+696,Cabaret,Bob Fosse,1972,"Drama, Music, Musical",7.8,42770000,null
+697,October Sky,Joe Johnston,1999,"Biography, Drama, Family",7.8,32480000,null
+698,Days of Heaven,Terrence Malick,1978,"Drama, Romance",7.8,0,null
+699,Guess Who's Coming to Dinner,Stanley Kramer,1967,"Comedy, Drama",7.8,56700000,null
+700,Once,John Carney,2007,"Drama, Music, Romance",7.8,9440000,null
+701,"Aguirre, the Wrath of God",Werner Herzog,1972,"Action, Adventure, Biography",7.8,0,null
+702,Freaks,Tod Browning,1932,"Drama, Horror",7.8,630000,Netflix
+703,All About My Mother,Pedro Almodóvar,1999,"Comedy, Drama, Romance",7.8,8260000,Amazon Prime
+704,All That Jazz,Bob Fosse,1979,"Drama, Music, Musical",7.8,37820000,null
+705,Letters from Iwo Jima,Clint Eastwood,2006,"Action, Adventure, Drama",7.8,13760000,null
+706,Lilya 4-Ever,Lukas Moodysson,2002,"Crime, Drama",7.8,180000,null
+707,Whisper of the Heart,Yoshifumi Kondô,1995,"Animation, Drama, Family",7.8,0,null
+708,Gaslight,George Cukor,1944,"Crime, Drama, Mystery",7.8,0,null
+709,The Chaser,Na Hong-jin,2008,"Action, Crime, Drama",7.8,0,null
+710,Manhattan,Woody Allen,1979,"Comedy, Drama, Romance",7.8,45700000,null
+711,Breaking the Waves,Lars von Trier,1996,Drama,7.8,4040000,null
+712,Loving Vincent,DK Welchman,2017,"Animation, Drama, Mystery",7.8,6740000,null
+713,The World's Fastest Indian,Roger Donaldson,2005,"Biography, Drama, Sport",7.8,5130000,null
+714,Frankenstein,James Whale,1931,"Drama, Horror, Sci-Fi",7.8,0,Amazon Prime
+715,To Have and Have Not,Howard Hawks,1944,"Adventure, Comedy, Film-Noir",7.8,0,null
+716,Stagecoach,John Ford,1939,"Adventure, Drama, Western",7.8,0,null
+717,Red River,Howard Hawks,1948,"Drama, Western",7.8,0,null
+718,The Lunchbox,Ritesh Batra,2013,"Drama, Romance",7.8,4230000,null
+719,Land of Mine,Martin Zandvliet,2015,"Drama, History, War",7.8,440000,null
+720,His Girl Friday,Howard Hawks,1940,"Comedy, Drama, Romance",7.8,300000,Amazon Prime
+721,Batman: Mask of the Phantasm,Eric Radomski,1993,"Animation, Action, Adventure",7.8,5620000,null
+722,L'Avventura,Michelangelo Antonioni,1960,"Drama, Mystery, Romance",7.8,0,null
+723,Hannah and Her Sisters,Woody Allen,1986,"Comedy, Drama",7.8,40080000,null
+724,Ninja Scroll,Yoshiaki Kawajiri,1993,"Animation, Action, Adventure",7.8,0,null
+725,The Man Who Would Be King,John Huston,1975,"Adventure, War",7.8,0,null
+726,The White Ribbon,Michael Haneke,2009,"Drama, Mystery, Thriller",7.8,2220000,null
+727,Shadow of a Doubt,Alfred Hitchcock,1943,"Film-Noir, Thriller",7.8,0,null
+728,A Prophet,Jacques Audiard,2009,"Crime, Drama",7.8,2079999.9,null
+729,The Bride of Frankenstein,James Whale,1935,"Drama, Horror, Sci-Fi",7.8,4360000,null
+730,The Umbrellas of Cherbourg,Jacques Demy,1964,"Drama, Musical, Romance",7.8,30000,null
+731,"I, Daniel Blake",Ken Loach,2016,Drama,7.8,259999.98,Netflix
+732,The Innocents,Jack Clayton,1961,Horror,7.8,2620000,Netflix
+733,The Killer,John Woo,1989,"Action, Crime, Drama",7.8,0,Netflix
+734,The Postman,Michael Radford,1994,"Biography, Comedy, Drama",7.8,21850000,null
+735,You Can't Take It with You,Frank Capra,1938,"Comedy, Drama, Romance",7.8,4660000,null
+736,Cowboy Bebop: The Movie,Shin'ichirô Watanabe,2001,"Animation, Action, Crime",7.8,1000000,null
+737,The Chorus,Christophe Barratier,2004,"Comedy, Drama, Music",7.8,3640000,null
+738,Tokyo Godfathers,Satoshi Kon,2003,"Animation, Adventure, Comedy",7.8,129999.99,null
+739,Crimes and Misdemeanors,Woody Allen,1989,"Comedy, Drama",7.8,18250000,null
+740,Once Upon a Time in Anatolia,Nuri Bilge Ceylan,2011,"Crime, Drama, Thriller",7.8,140000,null
+741,The Asphalt Jungle,John Huston,1950,"Crime, Drama, Film-Noir",7.8,0,null
+742,Veer Zaara,Yash Chopra,2004,"Drama, Family, Musical",7.8,2920000,null
+743,The Discreet Charm of the Bourgeoisie,Luis Buñuel,1972,Comedy,7.8,200000,Amazon Prime
+744,"Like Father, Like Son",Kore-eda Hirokazu,2013,Drama,7.8,280000,null
+745,English Vinglish,Gauri Shinde,2012,"Comedy, Drama, Family",7.8,1670000,null
+746,Duck Soup,Leo McCarey,1933,"Comedy, Musical",7.8,0,null
+747,Vivre Sa Vie,Jean-Luc Godard,1962,Drama,7.8,0,null
+748,Millennium Actress,Satoshi Kon,2001,"Animation, Drama, Fantasy",7.8,190000,null
+749,Knockin' on Heaven's Door,Thomas Jahn,1997,"Action, Crime, Comedy",7.8,0,null
+750,My Life as a Zucchini,Claude Barras,2016,"Animation, Comedy, Drama",7.8,290000,Netflix
+751,A Night at the Opera,Sam Wood,1935,"Comedy, Music, Musical",7.8,2540000,null
+752,Hindi Medium,Saket Chaudhary,2017,"Comedy, Drama",7.8,0,Amazon Prime
+753,Vicky Donor,Shoojit Sircar,2012,"Comedy, Romance",7.8,170000,null
+754,The Whale,Darren Aronofsky,2022,Drama,7.7,0,null
+755,Mission: Impossible - Fallout,Christopher McQuarrie,2018,"Action, Adventure, Thriller",7.7,220160000,null
+756,The Banshees of Inisherin,Martin McDonagh,2022,"Comedy, Drama",7.7,0,null
+757,The Goonies,Richard Donner,1985,"Adventure, Comedy, Family",7.7,61500000,null
+758,Aftersun,Charlotte Wells,2022,Drama,7.7,0,null
+759,Kingsman: The Secret Service,Matthew Vaughn,2014,"Action, Adventure, Comedy",7.7,128259992,null
+760,Harry Potter and the Goblet of Fire,Mike Newell,2005,"Adventure, Family, Fantasy",7.7,290010016,null
+761,The Hangover,Todd Phillips,2009,Comedy,7.7,277320000,null
+762,Ocean's Eleven,Steven Soderbergh,2001,"Crime, Thriller",7.7,183420000,Netflix
+763,Silver Linings Playbook,David O. Russell,2012,"Comedy, Drama, Romance",7.7,132090000,Netflix
+764,Zodiac,David Fincher,2007,"Crime, Drama, Mystery",7.7,33080002,Netflix
+765,Black Hawk Down,Ridley Scott,2001,"Action, Drama, History",7.7,108640000,Netflix
+766,Argo,Ben Affleck,2012,"Biography, Drama, Thriller",7.7,136030000,null
+767,A Few Good Men,Rob Reiner,1992,"Drama, Thriller",7.7,141340000,null
+768,Blue Is the Warmest Colour,Abdellatif Kechiche,2013,"Drama, Romance",7.7,2200000,null
+769,Blazing Saddles,Mel Brooks,1974,"Comedy, Western",7.7,119500000,null
+770,Lost in Translation,Sofia Coppola,2003,"Comedy, Drama",7.7,44590000,null
+771,Evil Dead II,Sam Raimi,1987,"Comedy, Horror",7.7,5920000,null
+772,Harry Potter and the Deathly Hallows: Part 1,David Yates,2010,"Adventure, Family, Fantasy",7.7,295980000,null
+773,Brokeback Mountain,Ang Lee,2005,"Drama, Romance",7.7,83040000,null
+774,The Last of the Mohicans,Michael Mann,1992,"Action, Adventure, Drama",7.7,75510000,null
+775,Primal Fear,Gregory Hoblit,1996,"Crime, Drama, Mystery",7.7,56120000,Netflix
+776,Wind River,Taylor Sheridan,2017,"Crime, Drama, Mystery",7.7,33800000,Netflix
+777,X-Men: First Class,Matthew Vaughn,2011,"Action, Sci-Fi",7.7,146410000,null
+778,Ex Machina,Alex Garland,2014,"Drama, Sci-Fi, Thriller",7.7,25440000,Netflix
+779,500 Days of Summer,Marc Webb,2009,"Comedy, Drama, Romance",7.7,32390000,null
+780,3:10 to Yuma,James Mangold,2007,"Action, Crime, Drama",7.7,53610000,null
+781,Airplane!,Jim Abrahams,1980,Comedy,7.7,83400000,null
+782,And Your Mother Too,Alfonso Cuarón,2001,Drama,7.7,13620000,null
+783,Home Alone,Chris Columbus,1990,"Comedy, Family",7.7,285760000,null
+784,Training Day,Antoine Fuqua,2001,"Action, Crime, Drama",7.7,76630000,Netflix
+785,Blue Velvet,David Lynch,1986,"Crime, Drama, Mystery",7.7,8550000,null
+786,Who Framed Roger Rabbit,Robert Zemeckis,1988,"Animation, Adventure, Comedy",7.7,156450000,null
+787,Coraline,Henry Selick,2009,"Animation, Drama, Family",7.7,75290000,Netflix
+788,Glengarry Glen Ross,James Foley,1992,"Crime, Drama, Mystery",7.7,10730000,null
+789,Wait Until Dark,Terence Young,1967,Thriller,7.7,17550000,null
+790,The Game,David Fincher,1997,"Drama, Mystery, Thriller",7.7,48320000,"Amazon Prime, Netflix"
+791,The Count of Monte Cristo,Kevin Reynolds,2002,"Action, Adventure, Drama",7.7,54230000,Amazon Prime
+792,Mr. Nobody,Jaco Van Dormael,2009,"Drama, Fantasy, Romance",7.7,0,null
+793,The Lego Movie,Phil Lord,2014,"Animation, Action, Adventure",7.7,257760016,null
+794,Philadelphia,Jonathan Demme,1993,Drama,7.7,77320000,Netflix
+795,Tangled,Nathan Greno,2010,"Animation, Adventure, Comedy",7.7,200820000,null
+796,Man on Fire,Tony Scott,2004,"Action, Crime, Drama",7.7,77910000,null
+797,Birdman or (The Unexpected Virtue of Ignorance),Alejandro G. Iñárritu,2014,"Comedy, Drama",7.7,42340000,null
+798,Deliverance,John Boorman,1972,"Adventure, Drama, Thriller",7.7,7060000,null
+799,First Blood,Ted Kotcheff,1982,"Action, Adventure, Thriller",7.7,47210000,null
+800,Sense and Sensibility,Ang Lee,1995,"Drama, Romance",7.7,43180000,null
+801,Star Trek II: The Wrath of Khan,Nicholas Meyer,1982,"Action, Adventure, Sci-Fi",7.7,78910000,null
+802,The Fault in Our Stars,Josh Boone,2014,"Drama, Romance",7.7,124870000,null
+803,The Bourne Supremacy,Paul Greengrass,2004,"Action, Mystery, Thriller",7.7,176240000,null
+804,Wreck-It Ralph,Rich Moore,2012,"Animation, Adventure, Comedy",7.7,189420000,null
+805,Apollo 13,Ron Howard,1995,"Adventure, Drama, History",7.7,173840000,Amazon Prime
+806,Midnight in Paris,Woody Allen,2011,"Comedy, Fantasy, Romance",7.7,56820000,null
+807,Toy Story 4,Josh Cooley,2019,"Animation, Adventure, Comedy",7.7,434040000,null
+808,Halloween,John Carpenter,1978,"Horror, Thriller",7.7,47000000,null
+809,Another Round,Thomas Vinterberg,2020,Drama,7.7,0,null
+810,The Machinist,Brad Anderson,2004,"Drama, Thriller",7.7,1080000,Netflix
+811,"O Brother, Where Art Thou?",Joel Coen,2000,"Adventure, Comedy, Crime",7.7,45510000,null
+812,Crash,Paul Haggis,2004,"Crime, Drama, Thriller",7.7,54580000,Netflix
+813,What's Eating Gilbert Grape,Lasse Hallström,1993,Drama,7.7,9170000,Netflix
+814,The Magnificent Seven,John Sturges,1960,"Action, Adventure, Drama",7.7,4910000,null
+815,The French Connection,William Friedkin,1971,"Action, Crime, Drama",7.7,15630000,null
+816,Gravity,Alfonso Cuarón,2013,"Drama, Sci-Fi, Thriller",7.7,274089984,null
+817,Donnie Brasco,Mike Newell,1997,"Biography, Crime, Drama",7.7,41910000,Netflix
+818,The Trial of the Chicago 7,Aaron Sorkin,2020,"Drama, History, Thriller",7.7,0,Netflix
+819,As Good as It Gets,James L. Brooks,1997,"Comedy, Drama, Romance",7.7,148480000,Netflix
+820,Road to Perdition,Sam Mendes,2002,"Crime, Drama, Thriller",7.7,104450000,null
+821,The Boondock Saints,Troy Duffy,1999,"Action, Thriller",7.7,30000,null
+822,Naked,Mike Leigh,1993,"Comedy, Drama",7.7,1770000,Netflix
+823,Empire of the Sun,Steven Spielberg,1987,"Drama, War",7.7,22240000,null
+824,The Color Purple,Steven Spielberg,1985,Drama,7.7,98470000,null
+825,Sound of Metal,Darius Marder,2019,"Drama, Music",7.7,0,Amazon Prime
+826,When Harry Met Sally...,Rob Reiner,1989,"Comedy, Drama, Romance",7.7,92820000,null
+827,The Boy in the Striped Pajamas,Mark Herman,2008,"Drama, War",7.7,9030000,Netflix
+828,A Man Called Ove,Hannes Holm,2015,"Comedy, Drama, Romance",7.7,3480000,null
+829,Star Trek Into Darkness,J.J. Abrams,2013,"Action, Adventure, Sci-Fi",7.7,228780000,null
+830,Fried Green Tomatoes,Jon Avnet,1991,Drama,7.7,82420000,null
+831,Kung Fu Hustle,Stephen Chow,2004,"Action, Comedy, Fantasy",7.7,17110000,Netflix
+832,Dirty Harry,Don Siegel,1971,"Action, Crime, Thriller",7.7,35900000,null
+833,Serpico,Sidney Lumet,1973,"Biography, Crime, Drama",7.7,29800000,null
+834,Detachment,Tony Kaye,2011,Drama,7.7,70000,null
+835,Happiness,Todd Solondz,1998,"Comedy, Drama",7.7,2810000,null
+836,Being John Malkovich,Spike Jonze,1999,"Comedy, Drama, Fantasy",7.7,22860000,null
+837,The Theory of Everything,James Marsh,2014,"Biography, Drama, Romance",7.7,35890000,Netflix
+838,The Dirty Dozen,Robert Aldrich,1967,"Action, Adventure, War",7.7,45300000,null
+839,Lucky Number Slevin,Paul McGuigan,2006,"Crime, Drama, Thriller",7.7,22490000,null
+840,Adaptation.,Spike Jonze,2002,"Comedy, Drama",7.7,22250000,null
+841,Clerks,Kevin Smith,1994,Comedy,7.7,3150000,null
+842,The Longest Day,Ken Annakin,1962,"Action, Drama, History",7.7,39100000,null
+843,This Is England,Shane Meadows,2006,"Crime, Drama",7.7,330000,null
+844,Flipped,Rob Reiner,2010,"Comedy, Drama, Romance",7.7,1750000,Netflix
+845,The Name of the Rose,Jean-Jacques Annaud,1986,"Drama, Mystery, Thriller",7.7,7150000,null
+846,Goldfinger,Guy Hamilton,1964,"Action, Adventure, Thriller",7.7,51080000,null
+847,Ordinary People,Robert Redford,1980,Drama,7.7,54800000,Netflix
+848,"South Park: Bigger, Longer & Uncut",Trey Parker,1999,"Animation, Comedy, Fantasy",7.7,52040000,null
+849,Bonnie and Clyde,Arthur Penn,1967,"Action, Biography, Crime",7.7,0,Netflix
+850,The Verdict,Sidney Lumet,1982,Drama,7.7,54000000,null
+851,The Great Beauty,Paolo Sorrentino,2013,Drama,7.7,2850000,null
+852,Malcolm X,Spike Lee,1992,"Biography, Drama, History",7.7,48170000,null
+853,Billy Elliot,Stephen Daldry,2000,"Drama, Music",7.7,22000000,Netflix
+854,Miller's Crossing,Joel Coen,1990,"Crime, Drama, Thriller",7.7,5080000,null
+855,Paprika,Satoshi Kon,2006,"Animation, Drama, Fantasy",7.7,880000,Netflix
+856,The Wind Rises,Hayao Miyazaki,2013,"Animation, Biography, Drama",7.7,5210000,null
+857,Ray,Taylor Hackford,2004,"Biography, Drama, Music",7.7,75330000,Netflix
+858,Roma,Alfonso Cuarón,2018,Drama,7.7,0,null
+859,Joint Security Area,Park Chan-wook,2000,"Action, Drama, Thriller",7.7,0,null
+860,Run Lola Run,Tom Tykwer,1998,"Action, Crime, Thriller",7.7,7270000,null
+861,Belle de Jour,Luis Buñuel,1967,"Drama, Romance",7.7,30000,null
+862,The Last Emperor,Bernardo Bertolucci,1987,"Biography, Drama, History",7.7,43980000,null
+863,Hard Boiled,John Woo,1992,"Action, Crime, Thriller",7.7,0,null
+864,Kubo and the Two Strings,Travis Knight,2016,"Animation, Action, Adventure",7.7,48020000,null
+865,Fantastic Planet,René Laloux,1973,"Animation, Sci-Fi",7.7,190000,null
+866,The Man from Nowhere,Jeong-beom Lee,2010,"Action, Crime, Drama",7.7,10000,null
+867,Mother,Bong Joon Ho,2009,"Crime, Drama, Mystery",7.7,550000,null
+868,Badlands,Terrence Malick,1973,"Action, Crime, Drama",7.7,0,null
+869,The African Queen,John Huston,1951,"Adventure, Drama, Romance",7.7,540000,Amazon Prime
+870,Open Your Eyes,Alejandro Amenábar,1997,"Drama, Mystery, Sci-Fi",7.7,370000,"Amazon Prime, Netflix"
+871,Beasts of No Nation,Cary Joji Fukunaga,2015,"Drama, War",7.7,80000,Netflix
+872,Finding Neverland,Marc Forster,2004,"Biography, Drama, Family",7.7,51680000,null
+873,Me and Earl and the Dying Girl,Alfonso Gomez-Rejon,2015,"Comedy, Drama, Romance",7.7,6740000,null
+874,The Quiet Man,John Ford,1952,"Comedy, Drama, Romance",7.7,10550000,Amazon Prime
+875,Happy Together,Kar-Wai Wong,1997,"Drama, Romance",7.7,190000,null
+876,Breathless,Jean-Luc Godard,1960,"Crime, Drama",7.7,340000,null
+877,Black Book,Paul Verhoeven,2006,"Drama, Thriller, War",7.7,4400000,Amazon Prime
+878,Short Cuts,Robert Altman,1993,"Comedy, Drama",7.7,6110000,null
+879,Hamlet,Kenneth Branagh,1996,Drama,7.7,4410000,Amazon Prime
+880,Fantasia,James Algar,1940,"Animation, Family, Fantasy",7.7,76410000,null
+881,Nebraska,Alexander Payne,2013,Drama,7.7,17650000,null
+882,The Double Life of Véronique,Krzysztof Kieslowski,1991,"Drama, Fantasy, Music",7.7,2000000,null
+883,Zulu,Cy Endfield,1964,"Drama, History, War",7.7,0,null
+884,Waking Life,Richard Linklater,2001,"Animation, Drama, Fantasy",7.7,2890000,null
+885,Porco Rosso,Hayao Miyazaki,1992,"Animation, Adventure, Comedy",7.7,0,null
+886,The Vanishing,George Sluizer,1988,"Mystery, Thriller",7.7,0,Amazon Prime
+887,Invasion of the Body Snatchers,Don Siegel,1956,"Drama, Horror, Sci-Fi",7.7,0,Amazon Prime
+888,When Marnie Was There,Hiromasa Yonebayashi,2014,"Animation, Drama, Family",7.7,770000,null
+889,Hedwig and the Angry Inch,John Cameron Mitchell,2001,"Comedy, Drama, Music",7.7,3030000,null
+890,Perfect Strangers,Paolo Genovese,2016,"Comedy, Drama",7.7,0,Amazon Prime
+891,A Man for All Seasons,Fred Zinnemann,1966,"Biography, Drama, History",7.7,28350000,null
+892,Night on Earth,Jim Jarmusch,1991,"Comedy, Drama",7.7,2020000,Netflix
+893,Black Narcissus,Michael Powell,1947,Drama,7.7,0,null
+894,The Broken Circle Breakdown,Felix van Groeningen,2012,"Drama, Music, Romance",7.7,180000,null
+895,The Triplets of Belleville,Sylvain Chomet,2003,"Animation, Adventure, Comedy",7.7,7000000,null
+896,Good Bye Lenin!,Wolfgang Becker,2003,"Comedy, Drama, Romance",7.7,4060000,null
+897,The Little Prince,Mark Osborne,2015,"Animation, Adventure, Drama",7.7,1340000,"Amazon Prime, Netflix"
+898,Cape Fear,J. Lee Thompson,1962,"Drama, Thriller",7.7,0,null
+899,Scarface,Howard Hawks,1932,"Action, Crime, Drama",7.7,0,null
+900,Marty,Delbert Mann,1955,"Drama, Romance",7.7,0,null
+901,The Motorcycle Diaries,Walter Salles,2004,"Adventure, Biography, Drama",7.7,16780000,null
+902,The Lady Vanishes,Alfred Hitchcock,1938,"Mystery, Thriller",7.7,0,Amazon Prime
+903,Down by Law,Jim Jarmusch,1986,"Comedy, Crime, Drama",7.7,1440000,null
+904,The Caine Mutiny,Edward Dmytryk,1954,"Drama, War",7.7,21750000,null
+905,Frost/Nixon,Ron Howard,2008,"Biography, Drama, History",7.7,18590000,null
+906,Taste of Cherry,Abbas Kiarostami,1997,Drama,7.7,310000,null
+907,Key Largo,John Huston,1948,"Action, Crime, Drama",7.7,0,null
+908,The Salesman,Asghar Farhadi,2016,"Drama, Thriller",7.7,2400000,Amazon Prime
+909,Confessions,Tetsuya Nakashima,2010,"Drama, Thriller",7.7,0,null
+910,Dreams,Akira Kurosawa,1990,"Drama, Fantasy",7.7,1960000,null
+911,The Experiment,Oliver Hirschbiegel,2001,"Drama, Thriller",7.7,140000,null
+912,Evil,Mikael Håfström,2003,Drama,7.7,20000,Netflix
+913,Adam's Apples,Anders Thomas Jensen,2005,"Comedy, Crime, Drama",7.7,0,null
+914,The Girl Who Leapt Through Time,Mamoru Hosoda,2006,"Animation, Adventure, Comedy",7.7,0,null
+915,The Magdalene Sisters,Peter Mullan,2002,Drama,7.7,4890000,null
+916,After the Wedding,Susanne Bier,2006,Drama,7.7,410000,null
+917,In America,Jim Sheridan,2002,Drama,7.7,15540000,null
+918,The Breadwinner,Nora Twomey,2017,"Animation, Drama, Family",7.7,310000,Netflix
+919,Jules and Jim,François Truffaut,1962,"Drama, Romance",7.7,0,null
+920,Love and Death,Woody Allen,1975,"Comedy, War",7.7,0,null
+921,Fireworks,Takeshi Kitano,1997,"Crime, Drama, Romance",7.7,230000,Netflix
+922,The Purple Rose of Cairo,Woody Allen,1985,"Comedy, Fantasy, Romance",7.7,10630000,null
+923,The Muppet Christmas Carol,Brian Henson,1992,"Comedy, Drama, Family",7.7,27280000,null
+924,The Past,Asghar Farhadi,2013,"Drama, Mystery",7.7,1330000,null
+925,Zelig,Woody Allen,1983,Comedy,7.7,11800000,null
+926,The Edge of Heaven,Fatih Akin,2007,Drama,7.7,740000,null
+927,Avatar: The Way of Water,James Cameron,2022,"Action, Adventure, Fantasy",7.6,659680000,null
+928,Harry Potter and the Sorcerer's Stone,Chris Columbus,2001,"Adventure, Family, Fantasy",7.6,317580000,null
+929,Once Upon a Time in Hollywood,Quentin Tarantino,2019,"Comedy, Drama",7.6,142500000,null
+930,American Psycho,Mary Harron,2000,"Crime, Drama, Horror",7.6,15070000,Netflix
+931,The Fifth Element,Luc Besson,1997,"Action, Adventure, Sci-Fi",7.6,63540000,null
+932,Superbad,Greg Mottola,2007,Comedy,7.6,121460000,Netflix
+933,The Royal Tenenbaums,Wes Anderson,2001,"Comedy, Drama",7.6,52360000,null
+934,300,Zack Snyder,2006,"Action, Drama",7.6,210610000,null
+935,Watchmen,Zack Snyder,2009,"Action, Drama, Mystery",7.6,107510000,null
+936,Deadpool 2,David Leitch,2018,"Action, Adventure, Comedy",7.6,324589984,null
+937,Guardians of the Galaxy Vol. 2,James Gunn,2017,"Action, Adventure, Comedy",7.6,389809984,null
+938,Moana,Ron Clements,2016,"Animation, Adventure, Comedy",7.6,248760000,null
+939,RoboCop,Paul Verhoeven,1987,"Action, Crime, Sci-Fi",7.6,53420000,null
+940,Kick-Ass,Matthew Vaughn,2010,"Action, Comedy, Crime",7.6,48070000,null
+941,Sicario,Denis Villeneuve,2015,"Action, Crime, Drama",7.6,46890000,null
+942,My Cousin Vinny,Jonathan Lynn,1992,"Comedy, Crime",7.6,52930000,null
+943,Rushmore,Wes Anderson,1998,"Comedy, Drama, Romance",7.6,17110000,null
+944,Saw,James Wan,2004,"Horror, Mystery, Thriller",7.6,56000000,null
+945,Office Space,Mike Judge,1999,Comedy,7.6,10820000,null
+946,Moneyball,Bennett Miller,2011,"Biography, Drama, Sport",7.6,75610000,null
+947,A Star Is Born,Bradley Cooper,2018,"Drama, Music, Romance",7.6,215290000,null
+948,The Butterfly Effect,Eric Bress,2004,"Drama, Sci-Fi, Thriller",7.6,57940000,null
+949,Inside Man,Spike Lee,2006,"Crime, Drama, Mystery",7.6,88510000,null
+950,Star Wars: Episode III - Revenge of the Sith,George Lucas,2005,"Action, Adventure, Fantasy",7.6,380260000,null
+951,Stardust,Matthew Vaughn,2007,"Adventure, Family, Fantasy",7.6,38630000,Netflix
+952,True Grit,Ethan Coen,2010,"Drama, Western",7.6,171240000,"Amazon Prime, Netflix"
+953,Kung Fu Panda,Mark Osborne,2008,"Animation, Action, Adventure",7.6,215430000,Netflix
+954,Minority Report,Steven Spielberg,2002,"Action, Crime, Mystery",7.6,132070008,Amazon Prime
+955,Hell or High Water,David Mackenzie,2016,"Crime, Drama, Thriller",7.6,26860000,Netflix
+956,The Blind Side,John Lee Hancock,2009,"Biography, Drama, Sport",7.6,255960000,null
+957,Eastern Promises,David Cronenberg,2007,"Crime, Drama, Thriller",7.6,17110000,null
+958,The Others,Alejandro Amenábar,2001,"Horror, Mystery, Thriller",7.6,96520000,null
+959,The Birds,Alfred Hitchcock,1963,"Drama, Horror, Mystery",7.6,11400000,null
+960,Mulan,Tony Bancroft,1998,"Animation, Adventure, Comedy",7.6,120620000,null
+961,The Fly,David Cronenberg,1986,"Drama, Horror, Sci-Fi",7.6,40460000,null
+962,Lethal Weapon,Richard Donner,1987,"Action, Crime, Thriller",7.6,65210000,null
+963,What We Do in the Shadows,Jemaine Clement,2014,"Comedy, Horror",7.6,3330000,null
+964,The Mitchells vs the Machines,Michael Rianda,2021,"Animation, Adventure, Comedy",7.6,0,null
+965,The Thin Red Line,Terrence Malick,1998,"Drama, History, War",7.6,36400000,null
+966,Despicable Me,Pierre Coffin,2010,"Animation, Adventure, Comedy",7.6,251510000,null
+967,Searching,Aneesh Chaganty,2018,"Drama, Mystery, Thriller",7.6,26020000,null
+968,The Raid: Redemption,Gareth Evans,2011,"Action, Crime, Thriller",7.6,4110000.2,null
+969,The Road Warrior,George Miller,1981,"Action, Adventure, Sci-Fi",7.6,12470000,null
+970,Dark City,Alex Proyas,1998,"Fantasy, Mystery, Sci-Fi",7.6,14380000,null
+971,Gone Baby Gone,Ben Affleck,2007,"Crime, Drama, Mystery",7.6,20300000,null
+972,The Skin I Live In,Pedro Almodóvar,2011,"Drama, Horror, Mystery",7.6,3190000,null
+973,Ponyo,Hayao Miyazaki,2008,"Animation, Adventure, Comedy",7.6,15090000,null
+974,The Jungle Book,Wolfgang Reitherman,1967,"Animation, Adventure, Comedy",7.6,141840000,Netflix
+975,Enter the Dragon,Robert Clouse,1973,"Action, Crime, Thriller",7.6,25000000,Netflix
+976,End of Watch,David Ayer,2012,"Action, Adventure, Crime",7.6,41000000,Netflix
+977,Dark Waters,Todd Haynes,2019,"Biography, Drama, History",7.6,0,Netflix
+978,Dawn of the Planet of the Apes,Matt Reeves,2014,"Action, Adventure, Drama",7.6,208550000,null
+979,I Am Sam,Jessie Nelson,2001,Drama,7.6,40310000,Netflix
+980,Match Point,Woody Allen,2005,"Drama, Romance, Thriller",7.6,23090000,null
+981,The Bridges of Madison County,Clint Eastwood,1995,"Drama, Romance",7.6,71520000,null
+982,After Hours,Martin Scorsese,1985,"Comedy, Crime, Drama",7.6,10600000,null
+983,Sabrina,Billy Wilder,1954,"Comedy, Drama, Romance",7.6,0,Netflix
+984,Die Hard with a Vengeance,John McTiernan,1995,"Action, Adventure, Thriller",7.6,100010000,Amazon Prime
+985,Rebel Without a Cause,Nicholas Ray,1955,Drama,7.6,0,Netflix
+986,Snow White and the Seven Dwarfs,William Cottrell,1937,"Animation, Adventure, Family",7.6,184930000,null
+987,From Here to Eternity,Fred Zinnemann,1953,"Drama, Romance, War",7.6,30500000,null
+988,50/50,Jonathan Levine,2011,"Comedy, Drama, Romance",7.6,35010000,Netflix
+989,Barton Fink,Joel Coen,1991,"Comedy, Drama, Thriller",7.6,6150000,null
+990,21 Grams,Alejandro G. Iñárritu,2003,"Crime, Drama, Thriller",7.6,16290001,Amazon Prime
+991,United 93,Paul Greengrass,2006,"Action, Drama, History",7.6,31570000,null
+992,The Last King of Scotland,Kevin Macdonald,2006,"Biography, Drama, History",7.6,17610000,null
+993,25th Hour,Spike Lee,2002,Drama,7.6,13060000,null
+994,The Taking of Pelham One Two Three,Joseph Sargent,1974,"Action, Crime, Thriller",7.6,2490000,null
+995,Control,Anton Corbijn,2007,"Biography, Drama, Music",7.6,870000,Amazon Prime
+996,A Very Long Engagement,Jean-Pierre Jeunet,2004,"Drama, Mystery, Romance",7.6,6170000,null
+997,Shine,Scott Hicks,1996,"Biography, Drama, Music",7.6,35810000,null
+998,Philomena,Stephen Frears,2013,"Biography, Comedy, Drama",7.6,37710000,Netflix
+999,The Invisible Man,James Whale,1933,"Horror, Sci-Fi",7.6,0,null
+1000,Cell 211,Daniel Monzón,2009,"Action, Crime, Drama",7.6,0,null
