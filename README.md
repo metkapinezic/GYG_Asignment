@@ -28,7 +28,7 @@ platform with better film offerings, focusing on quality and variety.
 
 #### Transformation:
 
-  A new table in the 'clean' schema was created, combining the three datasets through joins and window functions. The new table includes a column indicating whether a film or series is available on either or both platforms.
+  A new table in the 'clean' schema was created, combining the three datasets. The new table includes a column indicating whether a film or series is available on either or both platforms.
 
 #### Data Model Design:
 
