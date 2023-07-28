@@ -44,5 +44,5 @@ platform with better film offerings, focusing on quality and variety.
 
 #### Final deliverable:
 
-- Databricks library as a notebook in an HTML format which you can download and open in a browser
+- Databricks library as a notebook in an HTML format which you can download and open in a browser.
 - A pdf report summarizing the findings, outlining the problem, and providing insights into which media streaming platform is more suitable based on film offerings.
