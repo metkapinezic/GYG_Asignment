@@ -24,11 +24,11 @@ platform with more media offerings, focusing on quality and variety.
 
 #### Data Cleaning:
 
-  The columns 'release_year' and 'gross' column required cleaning and transformation from string to an integer data type for consistency and better analysis.
+  The columns 'release_year' and 'gross' required cleaning and transformation from string to an integer data type for consistency and better analysis.
 
 #### Transformation:
 
-  A new table in the 'clean' schema was created, combining the three datasets. The new table includes a column indicating whether a film or series is available on either or both platforms.
+  A new table in the 'clean' schema was created, combining the three datasets. The new table includes a new column indicating whether a film or series is available on either or both platforms.
 
 #### Data Model Design:
 
