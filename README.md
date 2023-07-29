@@ -2,10 +2,10 @@
 ## Data Engineer, Business Intelligence Take Home Assignment  
 
 
-The objective of this project is to build an ETL to design and deliver a data model that helps make an informed decision on which media streaming platform to subscribe to. The decision will be based on the quality and quantity of films each service provides, with price taken out of consideration.
+The objective of this project is to build an ETL and deliver a data model that helps make an informed decision on which media streaming platform to subscribe to. The decision will be based on the quality and quantity of media each service provides, with price taken out of consideration.
 
-The scope is to analyze and compare media streaming platforms (Netflix and Amazon Prime) based on the films they offer. The goal is to identify the 
-platform with better film offerings, focusing on quality and variety.
+The goal is to compare media streaming platforms (Netflix and Amazon Prime) based on the films they offer and identify the 
+platform with more media offerings, focusing on quality and variety.
 
 
 ### Process outline
