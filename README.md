@@ -1,6 +1,3 @@
-## Metka Pinezic 
-## Data Engineer, Business Intelligence Take Home Assignment  
-
 
 The objective of this project is to build an ETL and deliver a data model that helps make an informed decision on which media streaming platform to subscribe to. The decision will be based on the quality and quantity of media each service provides, with price taken out of consideration.
 
